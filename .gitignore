@@ -1,0 +1,131 @@
+# ==================== Python ====================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.pytest_cache/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env.bak
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# ==================== Node.js / Frontend ====================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.npm
+.eslintcache
+.cache/
+.parcel-cache/
+
+# Vite
+vite.config.js.timestamp-*
+
+# Build output
+frontend/dist/
+frontend/build/
+
+# ==================== Environment & Config ====================
+.env
+.env.local
+.env.*.local
+*.env
+!.env.example
+
+# ==================== Database ====================
+*.db
+*.sqlite
+*.sqlite3
+users.db
+
+# Neo4j data (keep structure but ignore data)
+neo4j/data/
+!neo4j/data/.gitkeep
+!neo4j/import/
+
+# ==================== Data & Models ====================
+data/*
+!data/.gitkeep
+!data/README.md
+
+logs/*
+!logs/.gitkeep
+
+models/*
+!models/.gitkeep
+!models/README.md
+
+# ==================== IDE & Editor ====================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.sublime-*
+
+# ==================== OS Files ====================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db:encryptable
+desktop.ini
+
+# ==================== Temporary Files ====================
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# ==================== Documentation ====================
+docs/临时*
+docs/~$*
+*.log
+
+# ==================== Security ====================
+*.pem
+*.key
+*.cert
+*.secret
+credentials.json
+service-account.json
+
+# ==================== Docker ====================
+.docker/
+docker-compose.override.yml
+
+# ==================== Git Hooks ====================
+.githooks/
+
+# ==================== PowerShell ====================
+*.ps1.bak
+
+# ==================== Project Specific ====================
+backend/test_*.py
+backend/verify_*.py
+backend/check_*.py
+setup_project.py
+setup_data_collection.ps1
+start_neo4j.ps1
