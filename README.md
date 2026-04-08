@@ -405,8 +405,8 @@ npm run build
 
 ## 📞 联系方式
 
-- **项目维护者**：[Your Name](mailto:your-email@example.com)
-- **项目地址**：https://github.com/your-username/tcm-kg-qa
+- **项目维护者**：[AAA0925](mailto:your-email@example.com)
+- **项目地址**：https://github.com/AAA0925/tcm-kg-qa
 - **问题反馈**：请在 GitHub Issues 中提交
 
 ---

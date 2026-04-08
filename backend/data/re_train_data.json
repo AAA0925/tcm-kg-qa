@@ -1,0 +1,3008 @@
+[
+  {
+    "text": "弥漫性特发性骨肥厚的常见临床表现包括硬化。",
+    "head": "弥漫性特发性骨肥厚",
+    "tail": "硬化",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "弥漫性特发性骨肥厚的常见临床表现包括肘痛。",
+    "head": "弥漫性特发性骨肥厚",
+    "tail": "肘痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "弥漫性特发性骨肥厚的常见临床表现包括足痛。",
+    "head": "弥漫性特发性骨肥厚",
+    "tail": "足痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "弥漫性特发性骨肥厚的常见临床表现包括足跟痛。",
+    "head": "弥漫性特发性骨肥厚",
+    "tail": "足跟痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "弥漫性特发性骨肥厚的常见临床表现包括血脂异常。",
+    "head": "弥漫性特发性骨肥厚",
+    "tail": "血脂异常",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "弥漫性特发性骨肥厚的常见临床表现包括钙化。",
+    "head": "弥漫性特发性骨肥厚",
+    "tail": "钙化",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "弥漫性特发性骨肥厚的常见临床表现包括韧带骨化。",
+    "head": "弥漫性特发性骨肥厚",
+    "tail": "韧带骨化",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "筋瘤的常见临床表现包括静脉曲张。",
+    "head": "筋瘤",
+    "tail": "静脉曲张",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "月经失调性不孕症的常见临床表现包括闭经。",
+    "head": "月经失调性不孕症",
+    "tail": "闭经",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "月经失调性不孕症的常见临床表现包括月经量少。",
+    "head": "月经失调性不孕症",
+    "tail": "月经量少",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "月经失调性不孕症的常见临床表现包括腹痛。",
+    "head": "月经失调性不孕症",
+    "tail": "腹痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "月经失调性不孕症的常见临床表现包括月经稀少。",
+    "head": "月经失调性不孕症",
+    "tail": "月经稀少",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "月经失调性不孕症的常见临床表现包括月经发黑。",
+    "head": "月经失调性不孕症",
+    "tail": "月经发黑",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "月经失调性不孕症的常见临床表现包括痛经。",
+    "head": "月经失调性不孕症",
+    "tail": "痛经",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "月经失调性不孕症的常见临床表现包括月经量多。",
+    "head": "月经失调性不孕症",
+    "tail": "月经量多",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "月经失调性不孕症的常见临床表现包括月经周期改变。",
+    "head": "月经失调性不孕症",
+    "tail": "月经周期改变",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "夏伊德雷格综合征的常见临床表现包括腱反射亢进。",
+    "head": "夏伊德雷格综合征",
+    "tail": "腱反射亢进",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "夏伊德雷格综合征的常见临床表现包括头晕。",
+    "head": "夏伊德雷格综合征",
+    "tail": "头晕",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "夏伊德雷格综合征的常见临床表现包括便秘。",
+    "head": "夏伊德雷格综合征",
+    "tail": "便秘",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "夏伊德雷格综合征的常见临床表现包括排便障碍。",
+    "head": "夏伊德雷格综合征",
+    "tail": "排便障碍",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "夏伊德雷格综合征的常见临床表现包括共济失调。",
+    "head": "夏伊德雷格综合征",
+    "tail": "共济失调",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "夏伊德雷格综合征的常见临床表现包括腹泻。",
+    "head": "夏伊德雷格综合征",
+    "tail": "腹泻",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "夏伊德雷格综合征的常见临床表现包括出汗异常。",
+    "head": "夏伊德雷格综合征",
+    "tail": "出汗异常",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "夏伊德雷格综合征的常见临床表现包括眼花。",
+    "head": "夏伊德雷格综合征",
+    "tail": "眼花",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "夏伊德雷格综合征的常见临床表现包括晕厥。",
+    "head": "夏伊德雷格综合征",
+    "tail": "晕厥",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "夏伊德雷格综合征的常见临床表现包括排尿障碍。",
+    "head": "夏伊德雷格综合征",
+    "tail": "排尿障碍",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "B链球菌群感染的常见临床表现包括脑膜炎。",
+    "head": "B链球菌群感染",
+    "tail": "脑膜炎",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "B链球菌群感染的常见临床表现包括脓肿。",
+    "head": "B链球菌群感染",
+    "tail": "脓肿",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "B链球菌群感染的常见临床表现包括败血症。",
+    "head": "B链球菌群感染",
+    "tail": "败血症",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "B链球菌群感染的常见临床表现包括肺部感染。",
+    "head": "B链球菌群感染",
+    "tail": "肺部感染",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "B链球菌群感染的常见临床表现包括细菌感染。",
+    "head": "B链球菌群感染",
+    "tail": "细菌感染",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脾肝综合征的常见临床表现包括厌食。",
+    "head": "脾肝综合征",
+    "tail": "厌食",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脾肝综合征的常见临床表现包括消化不良。",
+    "head": "脾肝综合征",
+    "tail": "消化不良",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脾肝综合征的常见临床表现包括恶心。",
+    "head": "脾肝综合征",
+    "tail": "恶心",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脾肝综合征的常见临床表现包括鼻子黄色或棕色。",
+    "head": "脾肝综合征",
+    "tail": "鼻子黄色或棕色",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脾肝综合征的常见临床表现包括乏力。",
+    "head": "脾肝综合征",
+    "tail": "乏力",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脾肝综合征的常见临床表现包括门脉高压。",
+    "head": "脾肝综合征",
+    "tail": "门脉高压",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脾肝综合征的常见临床表现包括腹泻。",
+    "head": "脾肝综合征",
+    "tail": "腹泻",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脾肝综合征的常见临床表现包括肝功能受损。",
+    "head": "脾肝综合征",
+    "tail": "肝功能受损",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脾肝综合征的常见临床表现包括脏腑功能失调。",
+    "head": "脾肝综合征",
+    "tail": "脏腑功能失调",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "五软的常见临床表现包括吮乳困难。",
+    "head": "五软",
+    "tail": "吮乳困难",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "五软的常见临床表现包括目光呆滞。",
+    "head": "五软",
+    "tail": "目光呆滞",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "五软的常见临床表现包括舌无力且不能随。",
+    "head": "五软",
+    "tail": "舌无力且不能随",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "五软的常见临床表现包括颈软不能抬头。",
+    "head": "五软",
+    "tail": "颈软不能抬头",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "五软的常见临床表现包括膝关节软弱无力。",
+    "head": "五软",
+    "tail": "膝关节软弱无力",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "五软的常见临床表现包括无力。",
+    "head": "五软",
+    "tail": "无力",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "老年癌症病人的急性感染的常见临床表现包括啰音。",
+    "head": "老年癌症病人的急性感染",
+    "tail": "啰音",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "老年癌症病人的急性感染的常见临床表现包括反应迟钝。",
+    "head": "老年癌症病人的急性感染",
+    "tail": "反应迟钝",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "老年癌症病人的急性感染的常见临床表现包括免疫缺陷。",
+    "head": "老年癌症病人的急性感染",
+    "tail": "免疫缺陷",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "老年癌症病人的急性感染的常见临床表现包括尿频。",
+    "head": "老年癌症病人的急性感染",
+    "tail": "尿频",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "老年癌症病人的急性感染的常见临床表现包括泌尿系感染。",
+    "head": "老年癌症病人的急性感染",
+    "tail": "泌尿系感染",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "老年癌症病人的急性感染的常见临床表现包括粒细胞减少。",
+    "head": "老年癌症病人的急性感染",
+    "tail": "粒细胞减少",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脉络膜炎的常见临床表现包括视物变形。",
+    "head": "脉络膜炎",
+    "tail": "视物变形",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脉络膜炎的常见临床表现包括眼前冒火花或眼前闪光。",
+    "head": "脉络膜炎",
+    "tail": "眼前冒火花或眼前闪光",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脉络膜炎的常见临床表现包括夜盲。",
+    "head": "脉络膜炎",
+    "tail": "夜盲",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脉络膜炎的常见临床表现包括视力障碍。",
+    "head": "脉络膜炎",
+    "tail": "视力障碍",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脉络膜炎的常见临床表现包括视力常呈雾状模糊感。",
+    "head": "脉络膜炎",
+    "tail": "视力常呈雾状模糊感",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脉络膜炎的常见临床表现包括展峰。",
+    "head": "脉络膜炎",
+    "tail": "展峰",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "下疳样脓皮病的常见临床表现包括硬下疳。",
+    "head": "下疳样脓皮病",
+    "tail": "硬下疳",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "下疳样脓皮病的常见临床表现包括脓疱。",
+    "head": "下疳样脓皮病",
+    "tail": "脓疱",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "下疳样脓皮病的常见临床表现包括丘疹。",
+    "head": "下疳样脓皮病",
+    "tail": "丘疹",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "下疳样脓皮病的常见临床表现包括脓性分泌物。",
+    "head": "下疳样脓皮病",
+    "tail": "脓性分泌物",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "老年人结核性脑膜炎的常见临床表现包括脑膜炎。",
+    "head": "老年人结核性脑膜炎",
+    "tail": "脑膜炎",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "老年人结核性脑膜炎的常见临床表现包括毒血症。",
+    "head": "老年人结核性脑膜炎",
+    "tail": "毒血症",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "老年人结核性脑膜炎的常见临床表现包括颅内压增高。",
+    "head": "老年人结核性脑膜炎",
+    "tail": "颅内压增高",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "老年人结核性脑膜炎的常见临床表现包括低热。",
+    "head": "老年人结核性脑膜炎",
+    "tail": "低热",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "老年人结核性脑膜炎的常见临床表现包括乏力。",
+    "head": "老年人结核性脑膜炎",
+    "tail": "乏力",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "老年人结核性脑膜炎的常见临床表现包括脑膜刺激征。",
+    "head": "老年人结核性脑膜炎",
+    "tail": "脑膜刺激征",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "老年人结核性脑膜炎的常见临床表现包括脑积水。",
+    "head": "老年人结核性脑膜炎",
+    "tail": "脑积水",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "老年人结核性脑膜炎的常见临床表现包括不自主运动。",
+    "head": "老年人结核性脑膜炎",
+    "tail": "不自主运动",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "老年人结核性脑膜炎的常见临床表现包括昏迷。",
+    "head": "老年人结核性脑膜炎",
+    "tail": "昏迷",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "病毒性感冒的常见临床表现包括情绪性感冒。",
+    "head": "病毒性感冒",
+    "tail": "情绪性感冒",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "病毒性感冒的常见临床表现包括打喷嚏。",
+    "head": "病毒性感冒",
+    "tail": "打喷嚏",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "病毒性感冒的常见临床表现包括鼻塞。",
+    "head": "病毒性感冒",
+    "tail": "鼻塞",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "病毒性感冒的常见临床表现包括流鼻涕。",
+    "head": "病毒性感冒",
+    "tail": "流鼻涕",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "病毒性感冒的常见临床表现包括咳嗽。",
+    "head": "病毒性感冒",
+    "tail": "咳嗽",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "病毒性感冒的常见临床表现包括咽痛。",
+    "head": "病毒性感冒",
+    "tail": "咽痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "病毒性感冒的常见临床表现包括感染性发热。",
+    "head": "病毒性感冒",
+    "tail": "感染性发热",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "克雷白杆菌属感染的常见临床表现包括前列腺肥大。",
+    "head": "克雷白杆菌属感染",
+    "tail": "前列腺肥大",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "克雷白杆菌属感染的常见临床表现包括腹腔感染。",
+    "head": "克雷白杆菌属感染",
+    "tail": "腹腔感染",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "克雷白杆菌属感染的常见临床表现包括弛张热。",
+    "head": "克雷白杆菌属感染",
+    "tail": "弛张热",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "克雷白杆菌属感染的常见临床表现包括发绀。",
+    "head": "克雷白杆菌属感染",
+    "tail": "发绀",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "克雷白杆菌属感染的常见临床表现包括急性面容。",
+    "head": "克雷白杆菌属感染",
+    "tail": "急性面容",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "克雷白杆菌属感染的常见临床表现包括咯血。",
+    "head": "克雷白杆菌属感染",
+    "tail": "咯血",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "克雷白杆菌属感染的常见临床表现包括呼吸困难。",
+    "head": "克雷白杆菌属感染",
+    "tail": "呼吸困难",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "克雷白杆菌属感染的常见临床表现包括肺部感染。",
+    "head": "克雷白杆菌属感染",
+    "tail": "肺部感染",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "雷凡斯坦综合征的常见临床表现包括阴蒂肥大。",
+    "head": "雷凡斯坦综合征",
+    "tail": "阴蒂肥大",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "雷凡斯坦综合征的常见临床表现包括先天性无子宫。",
+    "head": "雷凡斯坦综合征",
+    "tail": "先天性无子宫",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "雷凡斯坦综合征的常见临床表现包括盲袋阴道。",
+    "head": "雷凡斯坦综合征",
+    "tail": "盲袋阴道",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "单纯疱疹性脑炎的常见临床表现包括惊厥。",
+    "head": "单纯疱疹性脑炎",
+    "tail": "惊厥",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "单纯疱疹性脑炎的常见临床表现包括抽搐。",
+    "head": "单纯疱疹性脑炎",
+    "tail": "抽搐",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "单纯疱疹性脑炎的常见临床表现包括定向力障碍。",
+    "head": "单纯疱疹性脑炎",
+    "tail": "定向力障碍",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "单纯疱疹性脑炎的常见临床表现包括昏睡。",
+    "head": "单纯疱疹性脑炎",
+    "tail": "昏睡",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "单纯疱疹性脑炎的常见临床表现包括幻觉。",
+    "head": "单纯疱疹性脑炎",
+    "tail": "幻觉",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "单纯疱疹性脑炎的常见临床表现包括中枢性发热。",
+    "head": "单纯疱疹性脑炎",
+    "tail": "中枢性发热",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "单纯疱疹性脑炎的常见临床表现包括点状出血。",
+    "head": "单纯疱疹性脑炎",
+    "tail": "点状出血",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "单纯疱疹性脑炎的常见临床表现包括驻站医。",
+    "head": "单纯疱疹性脑炎",
+    "tail": "驻站医",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "单纯疱疹性脑炎的常见临床表现包括昏迷。",
+    "head": "单纯疱疹性脑炎",
+    "tail": "昏迷",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肝厥的常见临床表现包括抑郁。",
+    "head": "肝厥",
+    "tail": "抑郁",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肝厥的常见临床表现包括头昏。",
+    "head": "肝厥",
+    "tail": "头昏",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肝厥的常见临床表现包括抽搐。",
+    "head": "肝厥",
+    "tail": "抽搐",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肝厥的常见临床表现包括烦躁不安。",
+    "head": "肝厥",
+    "tail": "烦躁不安",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肝厥的常见临床表现包括谵妄。",
+    "head": "肝厥",
+    "tail": "谵妄",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肝厥的常见临床表现包括手脚冰凉。",
+    "head": "肝厥",
+    "tail": "手脚冰凉",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肝厥的常见临床表现包括肝臭。",
+    "head": "肝厥",
+    "tail": "肝臭",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肝厥的常见临床表现包括嗜睡。",
+    "head": "肝厥",
+    "tail": "嗜睡",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肝厥的常见临床表现包括昏迷。",
+    "head": "肝厥",
+    "tail": "昏迷",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "剥脱性皮炎型药疹的常见临床表现包括剥脱性皮炎。",
+    "head": "剥脱性皮炎型药疹",
+    "tail": "剥脱性皮炎",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "剥脱性皮炎型药疹的常见临床表现包括猩红热样皮疹。",
+    "head": "剥脱性皮炎型药疹",
+    "tail": "猩红热样皮疹",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "乳糜腹的常见临床表现包括腹膜炎。",
+    "head": "乳糜腹",
+    "tail": "腹膜炎",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "乳糜腹的常见临床表现包括腹壁静脉怒张。",
+    "head": "乳糜腹",
+    "tail": "腹壁静脉怒张",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "乳糜腹的常见临床表现包括恶心。",
+    "head": "乳糜腹",
+    "tail": "恶心",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "乳糜腹的常见临床表现包括腹痛。",
+    "head": "乳糜腹",
+    "tail": "腹痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "乳糜腹的常见临床表现包括低蛋白血症。",
+    "head": "乳糜腹",
+    "tail": "低蛋白血症",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "乳糜腹的常见临床表现包括腹胀。",
+    "head": "乳糜腹",
+    "tail": "腹胀",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "乳糜腹的常见临床表现包括腹水。",
+    "head": "乳糜腹",
+    "tail": "腹水",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "乳糜腹的常见临床表现包括腹泻。",
+    "head": "乳糜腹",
+    "tail": "腹泻",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "乳糜腹的常见临床表现包括移动性浊音。",
+    "head": "乳糜腹",
+    "tail": "移动性浊音",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "乳糜腹的常见临床表现包括肠鸣。",
+    "head": "乳糜腹",
+    "tail": "肠鸣",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脐炎的常见临床表现包括腹膜炎。",
+    "head": "脐炎",
+    "tail": "腹膜炎",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脐炎的常见临床表现包括脐轮红肿。",
+    "head": "脐炎",
+    "tail": "脐轮红肿",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脐炎的常见临床表现包括脐窝内有樱红色。",
+    "head": "脐炎",
+    "tail": "脐窝内有樱红色",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脐炎的常见临床表现包括烦躁不安。",
+    "head": "脐炎",
+    "tail": "烦躁不安",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脐炎的常见临床表现包括败血症。",
+    "head": "脐炎",
+    "tail": "败血症",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脐炎的常见临床表现包括呼吸困难。",
+    "head": "脐炎",
+    "tail": "呼吸困难",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脐炎的常见临床表现包括脐周明显红肿变硬。",
+    "head": "脐炎",
+    "tail": "脐周明显红肿变硬",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脐炎的常见临床表现包括淋巴结肿大。",
+    "head": "脐炎",
+    "tail": "淋巴结肿大",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脐炎的常见临床表现包括脐湿。",
+    "head": "脐炎",
+    "tail": "脐湿",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "孢子丝菌病的常见临床表现包括脑膜炎。",
+    "head": "孢子丝菌病",
+    "tail": "脑膜炎",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "孢子丝菌病的常见临床表现包括脓疱。",
+    "head": "孢子丝菌病",
+    "tail": "脓疱",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "孢子丝菌病的常见临床表现包括丘疹。",
+    "head": "孢子丝菌病",
+    "tail": "丘疹",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "孢子丝菌病的常见临床表现包括结痂。",
+    "head": "孢子丝菌病",
+    "tail": "结痂",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "疣状角化不良病的常见临床表现包括瘙痒。",
+    "head": "疣状角化不良病",
+    "tail": "瘙痒",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "疣状角化不良病的常见临床表现包括衣玉品。",
+    "head": "疣状角化不良病",
+    "tail": "衣玉品",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "疣状角化不良病的常见临床表现包括结节。",
+    "head": "疣状角化不良病",
+    "tail": "结节",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "疣状角化不良病的常见临床表现包括角质化。",
+    "head": "疣状角化不良病",
+    "tail": "角质化",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "疣状角化不良病的常见临床表现包括丘疹。",
+    "head": "疣状角化不良病",
+    "tail": "丘疹",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "急性蜂窝织炎的常见临床表现包括惊厥。",
+    "head": "急性蜂窝织炎",
+    "tail": "惊厥",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "急性蜂窝织炎的常见临床表现包括喉头水肿。",
+    "head": "急性蜂窝织炎",
+    "tail": "喉头水肿",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "急性蜂窝织炎的常见临床表现包括窒息。",
+    "head": "急性蜂窝织炎",
+    "tail": "窒息",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "急性蜂窝织炎的常见临床表现包括畏寒。",
+    "head": "急性蜂窝织炎",
+    "tail": "畏寒",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "急性蜂窝织炎的常见临床表现包括乏力。",
+    "head": "急性蜂窝织炎",
+    "tail": "乏力",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "急性蜂窝织炎的常见临床表现包括谵妄。",
+    "head": "急性蜂窝织炎",
+    "tail": "谵妄",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "急性蜂窝织炎的常见临床表现包括呼吸困难。",
+    "head": "急性蜂窝织炎",
+    "tail": "呼吸困难",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肺炎杆菌肺炎的常见临床表现包括发热伴咳嗽咯。",
+    "head": "肺炎杆菌肺炎",
+    "tail": "发热伴咳嗽咯",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肺炎杆菌肺炎的常见临床表现包括气急。",
+    "head": "肺炎杆菌肺炎",
+    "tail": "气急",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肺炎杆菌肺炎的常见临床表现包括胸痛。",
+    "head": "肺炎杆菌肺炎",
+    "tail": "胸痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肺炎杆菌肺炎的常见临床表现包括畏寒。",
+    "head": "肺炎杆菌肺炎",
+    "tail": "畏寒",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "癌症的常见临床表现包括消瘦。",
+    "head": "癌症",
+    "tail": "消瘦",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "癌症的常见临床表现包括癌性发热。",
+    "head": "癌症",
+    "tail": "癌性发热",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "癌症的常见临床表现包括胸闷。",
+    "head": "癌症",
+    "tail": "胸闷",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "癌症的常见临床表现包括恶病质。",
+    "head": "癌症",
+    "tail": "恶病质",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "癌症的常见临床表现包括食欲下降。",
+    "head": "癌症",
+    "tail": "食欲下降",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "癌症的常见临床表现包括反复出血。",
+    "head": "癌症",
+    "tail": "反复出血",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "癌症的常见临床表现包括恶性贫血。",
+    "head": "癌症",
+    "tail": "恶性贫血",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "癌症的常见临床表现包括不明原因发热。",
+    "head": "癌症",
+    "tail": "不明原因发热",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "皮肤松垂的常见临床表现包括鼻唇沟加深。",
+    "head": "皮肤松垂",
+    "tail": "鼻唇沟加深",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "皮肤松垂的常见临床表现包括上睑下垂。",
+    "head": "皮肤松垂",
+    "tail": "上睑下垂",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "皮肤松垂的常见临床表现包括睑外翻。",
+    "head": "皮肤松垂",
+    "tail": "睑外翻",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "皮肤松垂的常见临床表现包括湿疹。",
+    "head": "皮肤松垂",
+    "tail": "湿疹",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "水痘性角膜炎的常见临床表现包括角膜炎。",
+    "head": "水痘性角膜炎",
+    "tail": "角膜炎",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "水痘性角膜炎的常见临床表现包括角膜树枝状改变。",
+    "head": "水痘性角膜炎",
+    "tail": "角膜树枝状改变",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "水痘性角膜炎的常见临床表现包括眼痛。",
+    "head": "水痘性角膜炎",
+    "tail": "眼痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "家族性红细胞增多症的常见临床表现包括头胀。",
+    "head": "家族性红细胞增多症",
+    "tail": "头胀",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "家族性红细胞增多症的常见临床表现包括头晕。",
+    "head": "家族性红细胞增多症",
+    "tail": "头晕",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "家族性红细胞增多症的常见临床表现包括四肢麻木。",
+    "head": "家族性红细胞增多症",
+    "tail": "四肢麻木",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "感染性血小板减少性紫癜的常见临床表现包括口唇出血。",
+    "head": "感染性血小板减少性紫癜",
+    "tail": "口唇出血",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "感染性血小板减少性紫癜的常见临床表现包括血小板减少。",
+    "head": "感染性血小板减少性紫癜",
+    "tail": "血小板减少",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "感染性血小板减少性紫癜的常见临床表现包括牙龈出血。",
+    "head": "感染性血小板减少性紫癜",
+    "tail": "牙龈出血",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "感染性血小板减少性紫癜的常见临床表现包括碰撞后皮肤容易青紫。",
+    "head": "感染性血小板减少性紫癜",
+    "tail": "碰撞后皮肤容易青紫",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "感染性血小板减少性紫癜的常见临床表现包括血小板减少性紫癜。",
+    "head": "感染性血小板减少性紫癜",
+    "tail": "血小板减少性紫癜",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肝咳的常见临床表现包括肝气犯肺。",
+    "head": "肝咳",
+    "tail": "肝气犯肺",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肝咳的常见临床表现包括胸痛。",
+    "head": "肝咳",
+    "tail": "胸痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肝咳的常见临床表现包括中指半月甲呈粉红色。",
+    "head": "肝咳",
+    "tail": "中指半月甲呈粉红色",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "副球孢子菌病的常见临床表现包括恶心。",
+    "head": "副球孢子菌病",
+    "tail": "恶心",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "副球孢子菌病的常见临床表现包括乏力。",
+    "head": "副球孢子菌病",
+    "tail": "乏力",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "副球孢子菌病的常见临床表现包括腹水。",
+    "head": "副球孢子菌病",
+    "tail": "腹水",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "副球孢子菌病的常见临床表现包括呼吸困难。",
+    "head": "副球孢子菌病",
+    "tail": "呼吸困难",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "副球孢子菌病的常见临床表现包括丘疹。",
+    "head": "副球孢子菌病",
+    "tail": "丘疹",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "副球孢子菌病的常见临床表现包括淋巴结肿大。",
+    "head": "副球孢子菌病",
+    "tail": "淋巴结肿大",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "I型肾小管性酸中毒的常见临床表现包括心悸。",
+    "head": "I型肾小管性酸中毒",
+    "tail": "心悸",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "I型肾小管性酸中毒的常见临床表现包括脱水。",
+    "head": "I型肾小管性酸中毒",
+    "tail": "脱水",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "I型肾小管性酸中毒的常见临床表现包括多尿。",
+    "head": "I型肾小管性酸中毒",
+    "tail": "多尿",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "I型肾小管性酸中毒的常见临床表现包括恶心。",
+    "head": "I型肾小管性酸中毒",
+    "tail": "恶心",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "I型肾小管性酸中毒的常见临床表现包括心律失常。",
+    "head": "I型肾小管性酸中毒",
+    "tail": "心律失常",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "I型肾小管性酸中毒的常见临床表现包括乏力。",
+    "head": "I型肾小管性酸中毒",
+    "tail": "乏力",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "I型肾小管性酸中毒的常见临床表现包括气短。",
+    "head": "I型肾小管性酸中毒",
+    "tail": "气短",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "I型肾小管性酸中毒的常见临床表现包括骨痛。",
+    "head": "I型肾小管性酸中毒",
+    "tail": "骨痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "I型肾小管性酸中毒的常见临床表现包括骨质疏松。",
+    "head": "I型肾小管性酸中毒",
+    "tail": "骨质疏松",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "I型肾小管性酸中毒的常见临床表现包括恶心与呕吐。",
+    "head": "I型肾小管性酸中毒",
+    "tail": "恶心与呕吐",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "神经病性关节病的常见临床表现包括持续性疼痛。",
+    "head": "神经病性关节病",
+    "tail": "持续性疼痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "马牙的常见临床表现包括驻站医。",
+    "head": "马牙",
+    "tail": "驻站医",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "马牙的常见临床表现包括摇头转颈。",
+    "head": "马牙",
+    "tail": "摇头转颈",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "马牙的常见临床表现包括婴儿厌食。",
+    "head": "马牙",
+    "tail": "婴儿厌食",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "开放性脑外伤的常见临床表现包括感觉障碍。",
+    "head": "开放性脑外伤",
+    "tail": "感觉障碍",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "开放性脑外伤的常见临床表现包括瞳孔异常。",
+    "head": "开放性脑外伤",
+    "tail": "瞳孔异常",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "开放性脑外伤的常见临床表现包括颅内压增高。",
+    "head": "开放性脑外伤",
+    "tail": "颅内压增高",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "开放性脑外伤的常见临床表现包括脑膜刺激征。",
+    "head": "开放性脑外伤",
+    "tail": "脑膜刺激征",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "开放性脑外伤的常见临床表现包括意识障碍。",
+    "head": "开放性脑外伤",
+    "tail": "意识障碍",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "开放性脑外伤的常见临床表现包括血压波动大。",
+    "head": "开放性脑外伤",
+    "tail": "血压波动大",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "开放性脑外伤的常见临床表现包括呼吸异常。",
+    "head": "开放性脑外伤",
+    "tail": "呼吸异常",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "开放性脑外伤的常见临床表现包括精神障碍。",
+    "head": "开放性脑外伤",
+    "tail": "精神障碍",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "开放性脑外伤的常见临床表现包括颅内出血。",
+    "head": "开放性脑外伤",
+    "tail": "颅内出血",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "开放性脑外伤的常见临床表现包括昏迷。",
+    "head": "开放性脑外伤",
+    "tail": "昏迷",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "视网膜病变的常见临床表现包括点状出血。",
+    "head": "视网膜病变",
+    "tail": "点状出血",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "视网膜病变的常见临床表现包括视力障碍。",
+    "head": "视网膜病变",
+    "tail": "视力障碍",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "视网膜病变的常见临床表现包括视物变形。",
+    "head": "视网膜病变",
+    "tail": "视物变形",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "酒精中毒性神经疾病的常见临床表现包括胎儿酒精综合征。",
+    "head": "酒精中毒性神经疾病",
+    "tail": "胎儿酒精综合征",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "酒精中毒性神经疾病的常见临床表现包括病理性醉酒。",
+    "head": "酒精中毒性神经疾病",
+    "tail": "病理性醉酒",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "酒精中毒性神经疾病的常见临床表现包括抽搐。",
+    "head": "酒精中毒性神经疾病",
+    "tail": "抽搐",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "酒精中毒性神经疾病的常见临床表现包括仪平。",
+    "head": "酒精中毒性神经疾病",
+    "tail": "仪平",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "酒精中毒性神经疾病的常见临床表现包括木僵。",
+    "head": "酒精中毒性神经疾病",
+    "tail": "木僵",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "酒精中毒性神经疾病的常见临床表现包括共济失调。",
+    "head": "酒精中毒性神经疾病",
+    "tail": "共济失调",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "酒精中毒性神经疾病的常见临床表现包括痴呆。",
+    "head": "酒精中毒性神经疾病",
+    "tail": "痴呆",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "酒精中毒性神经疾病的常见临床表现包括昏迷。",
+    "head": "酒精中毒性神经疾病",
+    "tail": "昏迷",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "子嗽的常见临床表现包括血丝痰。",
+    "head": "子嗽",
+    "tail": "血丝痰",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "子嗽的常见临床表现包括胸闷。",
+    "head": "子嗽",
+    "tail": "胸闷",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "子嗽的常见临床表现包括孕妇胸闷气短。",
+    "head": "子嗽",
+    "tail": "孕妇胸闷气短",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "子嗽的常见临床表现包括咳嗽。",
+    "head": "子嗽",
+    "tail": "咳嗽",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "儿童白斑的常见临床表现包括色素沉着与色素减退。",
+    "head": "儿童白斑",
+    "tail": "色素沉着与色素减退",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "儿童白斑的常见临床表现包括色素脱失。",
+    "head": "儿童白斑",
+    "tail": "色素脱失",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "儿童白斑的常见临床表现包括额部白斑。",
+    "head": "儿童白斑",
+    "tail": "额部白斑",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "儿童白斑的常见临床表现包括小儿脸上有白斑。",
+    "head": "儿童白斑",
+    "tail": "小儿脸上有白斑",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "儿童白斑的常见临床表现包括色素性皮损。",
+    "head": "儿童白斑",
+    "tail": "色素性皮损",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "儿童白斑的常见临床表现包括色素异常。",
+    "head": "儿童白斑",
+    "tail": "色素异常",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肺咳的常见临床表现包括喘息。",
+    "head": "肺咳",
+    "tail": "喘息",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肺咳的常见临床表现包括咳嗽。",
+    "head": "肺咳",
+    "tail": "咳嗽",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肺咳的常见临床表现包括口干舌燥。",
+    "head": "肺咳",
+    "tail": "口干舌燥",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肺咳的常见临床表现包括声音嘶哑。",
+    "head": "肺咳",
+    "tail": "声音嘶哑",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肺咳的常见临床表现包括夜间咳嗽。",
+    "head": "肺咳",
+    "tail": "夜间咳嗽",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "慢惊风的常见临床表现包括手抽筋。",
+    "head": "慢惊风",
+    "tail": "手抽筋",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "慢惊风的常见临床表现包括消瘦。",
+    "head": "慢惊风",
+    "tail": "消瘦",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "慢惊风的常见临床表现包括低热。",
+    "head": "慢惊风",
+    "tail": "低热",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "慢惊风的常见临床表现包括抽搐。",
+    "head": "慢惊风",
+    "tail": "抽搐",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "慢惊风的常见临床表现包括腹泻。",
+    "head": "慢惊风",
+    "tail": "腹泻",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "慢惊风的常见临床表现包括面色苍白。",
+    "head": "慢惊风",
+    "tail": "面色苍白",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "慢惊风的常见临床表现包括嗜睡。",
+    "head": "慢惊风",
+    "tail": "嗜睡",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "慢惊风的常见临床表现包括无力。",
+    "head": "慢惊风",
+    "tail": "无力",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "慢惊风的常见临床表现包括疲劳。",
+    "head": "慢惊风",
+    "tail": "疲劳",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "颈椎黄韧带骨化症的常见临床表现包括脊髓压迫。",
+    "head": "颈椎黄韧带骨化症",
+    "tail": "脊髓压迫",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "颈椎黄韧带骨化症的常见临床表现包括头颈部活动受限。",
+    "head": "颈椎黄韧带骨化症",
+    "tail": "头颈部活动受限",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "颈椎黄韧带骨化症的常见临床表现包括腱反射亢进。",
+    "head": "颈椎黄韧带骨化症",
+    "tail": "腱反射亢进",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "颈椎黄韧带骨化症的常见临床表现包括颈部疼痛。",
+    "head": "颈椎黄韧带骨化症",
+    "tail": "颈部疼痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "颈椎黄韧带骨化症的常见临床表现包括乏力。",
+    "head": "颈椎黄韧带骨化症",
+    "tail": "乏力",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "颈椎黄韧带骨化症的常见临床表现包括感觉障碍。",
+    "head": "颈椎黄韧带骨化症",
+    "tail": "感觉障碍",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "颈椎黄韧带骨化症的常见临床表现包括韧带骨化。",
+    "head": "颈椎黄韧带骨化症",
+    "tail": "韧带骨化",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "颈椎黄韧带骨化症的常见临床表现包括脊髓受压。",
+    "head": "颈椎黄韧带骨化症",
+    "tail": "脊髓受压",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "颈椎黄韧带骨化症的常见临床表现包括踝阵挛。",
+    "head": "颈椎黄韧带骨化症",
+    "tail": "踝阵挛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "阑尾腺癌的常见临床表现包括下腹痛。",
+    "head": "阑尾腺癌",
+    "tail": "下腹痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "阑尾腺癌的常见临床表现包括消瘦。",
+    "head": "阑尾腺癌",
+    "tail": "消瘦",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "阑尾腺癌的常见临床表现包括右下腹痛。",
+    "head": "阑尾腺癌",
+    "tail": "右下腹痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "阑尾腺癌的常见临床表现包括乏力。",
+    "head": "阑尾腺癌",
+    "tail": "乏力",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "阑尾腺癌的常见临床表现包括阑尾脓肿。",
+    "head": "阑尾腺癌",
+    "tail": "阑尾脓肿",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "阑尾腺癌的常见临床表现包括腹痛。",
+    "head": "阑尾腺癌",
+    "tail": "腹痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "阑尾腺癌的常见临床表现包括腹水。",
+    "head": "阑尾腺癌",
+    "tail": "腹水",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "阑尾腺癌的常见临床表现包括食欲下降。",
+    "head": "阑尾腺癌",
+    "tail": "食欲下降",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "阑尾腺癌的常见临床表现包括阑尾穿孔。",
+    "head": "阑尾腺癌",
+    "tail": "阑尾穿孔",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肋软骨炎的常见临床表现包括肋骨痛。",
+    "head": "肋软骨炎",
+    "tail": "肋骨痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肋软骨炎的常见临床表现包括侧肋骨痛。",
+    "head": "肋软骨炎",
+    "tail": "侧肋骨痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肋软骨炎的常见临床表现包括第２肋软骨痛。",
+    "head": "肋软骨炎",
+    "tail": "第２肋软骨痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "青春期功能失调性子宫出血病的常见临床表现包括闭经。",
+    "head": "青春期功能失调性子宫出血病",
+    "tail": "闭经",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "青春期功能失调性子宫出血病的常见临床表现包括消瘦。",
+    "head": "青春期功能失调性子宫出血病",
+    "tail": "消瘦",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "青春期功能失调性子宫出血病的常见临床表现包括乏力。",
+    "head": "青春期功能失调性子宫出血病",
+    "tail": "乏力",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "青春期功能失调性子宫出血病的常见临床表现包括头晕。",
+    "head": "青春期功能失调性子宫出血病",
+    "tail": "头晕",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "青春期功能失调性子宫出血病的常见临床表现包括气短。",
+    "head": "青春期功能失调性子宫出血病",
+    "tail": "气短",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "青春期功能失调性子宫出血病的常见临床表现包括食欲不振。",
+    "head": "青春期功能失调性子宫出血病",
+    "tail": "食欲不振",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "青春期功能失调性子宫出血病的常见临床表现包括子宫出血。",
+    "head": "青春期功能失调性子宫出血病",
+    "tail": "子宫出血",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "青春期功能失调性子宫出血病的常见临床表现包括阴道持续中量流血。",
+    "head": "青春期功能失调性子宫出血病",
+    "tail": "阴道持续中量流血",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "泌尿感染的常见临床表现包括尿急。",
+    "head": "泌尿感染",
+    "tail": "尿急",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "泌尿感染的常见临床表现包括尿频伴尿急和尿痛。",
+    "head": "泌尿感染",
+    "tail": "尿频伴尿急和尿痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "泌尿感染的常见临床表现包括尿痛。",
+    "head": "泌尿感染",
+    "tail": "尿痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "泌尿感染的常见临床表现包括恶心。",
+    "head": "泌尿感染",
+    "tail": "恶心",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "泌尿感染的常见临床表现包括血尿。",
+    "head": "泌尿感染",
+    "tail": "血尿",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "泌尿感染的常见临床表现包括尿频。",
+    "head": "泌尿感染",
+    "tail": "尿频",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "泌尿感染的常见临床表现包括发烧。",
+    "head": "泌尿感染",
+    "tail": "发烧",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "泌尿感染的常见临床表现包括神经性尿频。",
+    "head": "泌尿感染",
+    "tail": "神经性尿频",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "泌尿感染的常见临床表现包括腰痛。",
+    "head": "泌尿感染",
+    "tail": "腰痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "崩漏的常见临床表现包括革脉。",
+    "head": "崩漏",
+    "tail": "革脉",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "崩漏的常见临床表现包括子宫出血。",
+    "head": "崩漏",
+    "tail": "子宫出血",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "崩漏的常见临床表现包括阴道出血。",
+    "head": "崩漏",
+    "tail": "阴道出血",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "崩漏的常见临床表现包括腹部不适。",
+    "head": "崩漏",
+    "tail": "腹部不适",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "崩漏的常见临床表现包括驻站医。",
+    "head": "崩漏",
+    "tail": "驻站医",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "苏格兰脑炎的常见临床表现包括低热。",
+    "head": "苏格兰脑炎",
+    "tail": "低热",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "上腔静脉综合征的常见临床表现包括发绀。",
+    "head": "上腔静脉综合征",
+    "tail": "发绀",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "上腔静脉综合征的常见临床表现包括咳嗽。",
+    "head": "上腔静脉综合征",
+    "tail": "咳嗽",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "上腔静脉综合征的常见临床表现包括呼吸困难。",
+    "head": "上腔静脉综合征",
+    "tail": "呼吸困难",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "上腔静脉综合征的常见临床表现包括胸痛。",
+    "head": "上腔静脉综合征",
+    "tail": "胸痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "上腔静脉综合征的常见临床表现包括上肢水肿。",
+    "head": "上腔静脉综合征",
+    "tail": "上肢水肿",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肾石症的常见临床表现包括腰背刺痛。",
+    "head": "肾石症",
+    "tail": "腰背刺痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肾石症的常见临床表现包括腰背的持续隐痛。",
+    "head": "肾石症",
+    "tail": "腰背的持续隐痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肾石症的常见临床表现包括腰背痛。",
+    "head": "肾石症",
+    "tail": "腰背痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肾石症的常见临床表现包括排尿不畅。",
+    "head": "肾石症",
+    "tail": "排尿不畅",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肾石症的常见临床表现包括血尿。",
+    "head": "肾石症",
+    "tail": "血尿",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肾石症的常见临床表现包括尿痛。",
+    "head": "肾石症",
+    "tail": "尿痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肾石症的常见临床表现包括排尿疼痛。",
+    "head": "肾石症",
+    "tail": "排尿疼痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "心阴虚的常见临床表现包括多梦。",
+    "head": "心阴虚",
+    "tail": "多梦",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "心阴虚的常见临床表现包括潮红潮热。",
+    "head": "心阴虚",
+    "tail": "潮红潮热",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "心阴虚的常见临床表现包括盗汗。",
+    "head": "心阴虚",
+    "tail": "盗汗",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "心阴虚的常见临床表现包括面色苍白。",
+    "head": "心阴虚",
+    "tail": "面色苍白",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "心阴虚的常见临床表现包括阴虚体质。",
+    "head": "心阴虚",
+    "tail": "阴虚体质",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "心阴虚的常见临床表现包括烦热。",
+    "head": "心阴虚",
+    "tail": "烦热",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "心阴虚的常见临床表现包括健忘。",
+    "head": "心阴虚",
+    "tail": "健忘",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "心阴虚的常见临床表现包括失眠。",
+    "head": "心阴虚",
+    "tail": "失眠",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "旋前圆肌综合征的常见临床表现包括感觉障碍。",
+    "head": "旋前圆肌综合征",
+    "tail": "感觉障碍",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "旋前圆肌综合征的常见临床表现包括代超。",
+    "head": "旋前圆肌综合征",
+    "tail": "代超",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "旋前圆肌综合征的常见临床表现包括放射性疼痛。",
+    "head": "旋前圆肌综合征",
+    "tail": "放射性疼痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "旋前圆肌综合征的常见临床表现包括肌肉萎缩。",
+    "head": "旋前圆肌综合征",
+    "tail": "肌肉萎缩",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "旋前圆肌综合征的常见临床表现包括肩胛放射性疼痛。",
+    "head": "旋前圆肌综合征",
+    "tail": "肩胛放射性疼痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "旋前圆肌综合征的常见临床表现包括腕部疼痛。",
+    "head": "旋前圆肌综合征",
+    "tail": "腕部疼痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "旋前圆肌综合征的常见临床表现包括闫铁。",
+    "head": "旋前圆肌综合征",
+    "tail": "闫铁",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肱骨外上髁炎的常见临床表现包括肘痛。",
+    "head": "肱骨外上髁炎",
+    "tail": "肘痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肱骨外上髁炎的常见临床表现包括肘部的肿胀压痛。",
+    "head": "肱骨外上髁炎",
+    "tail": "肘部的肿胀压痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肱骨外上髁炎的常见临床表现包括肢体疼痛。",
+    "head": "肱骨外上髁炎",
+    "tail": "肢体疼痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肱骨外上髁炎的常见临床表现包括肘外侧肿痛及功能障碍。",
+    "head": "肱骨外上髁炎",
+    "tail": "肘外侧肿痛及功能障碍",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "鼻疽假单胞菌肺炎的常见临床表现包括结痂。",
+    "head": "鼻疽假单胞菌肺炎",
+    "tail": "结痂",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "鼻疽假单胞菌肺炎的常见临床表现包括毒血症。",
+    "head": "鼻疽假单胞菌肺炎",
+    "tail": "毒血症",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "鼻疽假单胞菌肺炎的常见临床表现包括低热。",
+    "head": "鼻疽假单胞菌肺炎",
+    "tail": "低热",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "鼻疽假单胞菌肺炎的常见临床表现包括败血症。",
+    "head": "鼻疽假单胞菌肺炎",
+    "tail": "败血症",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "鼻疽假单胞菌肺炎的常见临床表现包括肌痛。",
+    "head": "鼻疽假单胞菌肺炎",
+    "tail": "肌痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "鼻疽假单胞菌肺炎的常见临床表现包括鼻中隔穿孔。",
+    "head": "鼻疽假单胞菌肺炎",
+    "tail": "鼻中隔穿孔",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "鼻疽假单胞菌肺炎的常见临床表现包括测试。",
+    "head": "鼻疽假单胞菌肺炎",
+    "tail": "测试",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "鼻疽假单胞菌肺炎的常见临床表现包括淋巴结肿大。",
+    "head": "鼻疽假单胞菌肺炎",
+    "tail": "淋巴结肿大",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "鼻疽假单胞菌肺炎的常见临床表现包括寒战。",
+    "head": "鼻疽假单胞菌肺炎",
+    "tail": "寒战",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "褶烂的常见临床表现包括新生儿皮肤褶皱。",
+    "head": "褶烂",
+    "tail": "新生儿皮肤褶皱",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "褶烂的常见临床表现包括丘疹。",
+    "head": "褶烂",
+    "tail": "丘疹",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "褶烂的常见临床表现包括闫利霞。",
+    "head": "褶烂",
+    "tail": "闫利霞",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿糖原贮积病Ⅱ型的常见临床表现包括生长缓慢。",
+    "head": "小儿糖原贮积病Ⅱ型",
+    "tail": "生长缓慢",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿糖原贮积病Ⅱ型的常见临床表现包括烦躁不安。",
+    "head": "小儿糖原贮积病Ⅱ型",
+    "tail": "烦躁不安",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿糖原贮积病Ⅱ型的常见临床表现包括肌张力减低。",
+    "head": "小儿糖原贮积病Ⅱ型",
+    "tail": "肌张力减低",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿糖原贮积病Ⅱ型的常见临床表现包括腱反射消失。",
+    "head": "小儿糖原贮积病Ⅱ型",
+    "tail": "腱反射消失",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿糖原贮积病Ⅱ型的常见临床表现包括食欲不振。",
+    "head": "小儿糖原贮积病Ⅱ型",
+    "tail": "食欲不振",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿糖原贮积病Ⅱ型的常见临床表现包括呼吸困难。",
+    "head": "小儿糖原贮积病Ⅱ型",
+    "tail": "呼吸困难",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿糖原贮积病Ⅱ型的常见临床表现包括呼吸衰竭。",
+    "head": "小儿糖原贮积病Ⅱ型",
+    "tail": "呼吸衰竭",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿糖原贮积病Ⅱ型的常见临床表现包括巨舌。",
+    "head": "小儿糖原贮积病Ⅱ型",
+    "tail": "巨舌",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "痿病的常见临床表现包括肌肉萎缩。",
+    "head": "痿病",
+    "tail": "肌肉萎缩",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "痿病的常见临床表现包括胸肌萎缩。",
+    "head": "痿病",
+    "tail": "胸肌萎缩",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "痿病的常见临床表现包括肩带肌上肢和。",
+    "head": "痿病",
+    "tail": "肩带肌上肢和",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "痿病的常见临床表现包括大腿肌肉萎缩。",
+    "head": "痿病",
+    "tail": "大腿肌肉萎缩",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "痿病的常见临床表现包括面肌萎缩。",
+    "head": "痿病",
+    "tail": "面肌萎缩",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "痿病的常见临床表现包括无力。",
+    "head": "痿病",
+    "tail": "无力",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "痿病的常见临床表现包括疲劳。",
+    "head": "痿病",
+    "tail": "疲劳",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "痿病的常见临床表现包括手内肌萎缩。",
+    "head": "痿病",
+    "tail": "手内肌萎缩",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿肥厚型心肌病的常见临床表现包括心绞痛。",
+    "head": "小儿肥厚型心肌病",
+    "tail": "心绞痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿肥厚型心肌病的常见临床表现包括心悸。",
+    "head": "小儿肥厚型心肌病",
+    "tail": "心悸",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿肥厚型心肌病的常见临床表现包括口唇和甲床略带青紫。",
+    "head": "小儿肥厚型心肌病",
+    "tail": "口唇和甲床略带青紫",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿肥厚型心肌病的常见临床表现包括头晕。",
+    "head": "小儿肥厚型心肌病",
+    "tail": "头晕",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿肥厚型心肌病的常见临床表现包括猝死。",
+    "head": "小儿肥厚型心肌病",
+    "tail": "猝死",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿肥厚型心肌病的常见临床表现包括乏力。",
+    "head": "小儿肥厚型心肌病",
+    "tail": "乏力",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿肥厚型心肌病的常见临床表现包括心脏扩大。",
+    "head": "小儿肥厚型心肌病",
+    "tail": "心脏扩大",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿肥厚型心肌病的常见临床表现包括呼吸困难。",
+    "head": "小儿肥厚型心肌病",
+    "tail": "呼吸困难",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿肥厚型心肌病的常见临床表现包括心肌肥厚。",
+    "head": "小儿肥厚型心肌病",
+    "tail": "心肌肥厚",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿肥厚型心肌病的常见临床表现包括心脏杂音。",
+    "head": "小儿肥厚型心肌病",
+    "tail": "心脏杂音",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "近视的常见临床表现包括眼底改变。",
+    "head": "近视",
+    "tail": "眼底改变",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "近视的常见临床表现包括假性近视。",
+    "head": "近视",
+    "tail": "假性近视",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "近视的常见临床表现包括畏光。",
+    "head": "近视",
+    "tail": "畏光",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "近视的常见临床表现包括病理性近视。",
+    "head": "近视",
+    "tail": "病理性近视",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "近视的常见临床表现包括眼前黑影。",
+    "head": "近视",
+    "tail": "眼前黑影",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "近视的常见临床表现包括豹纹状眼底。",
+    "head": "近视",
+    "tail": "豹纹状眼底",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "近视的常见临床表现包括铺路石样变性。",
+    "head": "近视",
+    "tail": "铺路石样变性",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "近视的常见临床表现包括视野缩小。",
+    "head": "近视",
+    "tail": "视野缩小",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "近视的常见临床表现包括疲劳。",
+    "head": "近视",
+    "tail": "疲劳",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "近视的常见临床表现包括眼干。",
+    "head": "近视",
+    "tail": "眼干",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "驱蛔灵中毒的常见临床表现包括眩晕。",
+    "head": "驱蛔灵中毒",
+    "tail": "眩晕",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "驱蛔灵中毒的常见临床表现包括恶心。",
+    "head": "驱蛔灵中毒",
+    "tail": "恶心",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "驱蛔灵中毒的常见临床表现包括心律失常。",
+    "head": "驱蛔灵中毒",
+    "tail": "心律失常",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "驱蛔灵中毒的常见临床表现包括腹痛。",
+    "head": "驱蛔灵中毒",
+    "tail": "腹痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "驱蛔灵中毒的常见临床表现包括听力减退。",
+    "head": "驱蛔灵中毒",
+    "tail": "听力减退",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "驱蛔灵中毒的常见临床表现包括血尿。",
+    "head": "驱蛔灵中毒",
+    "tail": "血尿",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "驱蛔灵中毒的常见临床表现包括舞蹈病样动作。",
+    "head": "驱蛔灵中毒",
+    "tail": "舞蹈病样动作",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "驱蛔灵中毒的常见临床表现包括共济失调。",
+    "head": "驱蛔灵中毒",
+    "tail": "共济失调",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "驱蛔灵中毒的常见临床表现包括昏迷。",
+    "head": "驱蛔灵中毒",
+    "tail": "昏迷",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿大肠杆菌肠炎的常见临床表现包括低热。",
+    "head": "小儿大肠杆菌肠炎",
+    "tail": "低热",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿大肠杆菌肠炎的常见临床表现包括粪便脓血。",
+    "head": "小儿大肠杆菌肠炎",
+    "tail": "粪便脓血",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿大肠杆菌肠炎的常见临床表现包括腹泻。",
+    "head": "小儿大肠杆菌肠炎",
+    "tail": "腹泻",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿大肠杆菌肠炎的常见临床表现包括腹泻为水样带黏。",
+    "head": "小儿大肠杆菌肠炎",
+    "tail": "腹泻为水样带黏",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肺癌骨转移的常见临床表现包括局部压痛。",
+    "head": "肺癌骨转移",
+    "tail": "局部压痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "肺癌骨转移的常见临床表现包括骨痛。",
+    "head": "肺癌骨转移",
+    "tail": "骨痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "皮下脂膜炎性T细胞淋巴瘤的常见临床表现包括泛发性红色斑块。",
+    "head": "皮下脂膜炎性T细胞淋巴瘤",
+    "tail": "泛发性红色斑块",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "皮下脂膜炎性T细胞淋巴瘤的常见临床表现包括消瘦。",
+    "head": "皮下脂膜炎性T细胞淋巴瘤",
+    "tail": "消瘦",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "皮下脂膜炎性T细胞淋巴瘤的常见临床表现包括乏力。",
+    "head": "皮下脂膜炎性T细胞淋巴瘤",
+    "tail": "乏力",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "皮下脂膜炎性T细胞淋巴瘤的常见临床表现包括肌痛。",
+    "head": "皮下脂膜炎性T细胞淋巴瘤",
+    "tail": "肌痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "皮下脂膜炎性T细胞淋巴瘤的常见临床表现包括结节。",
+    "head": "皮下脂膜炎性T细胞淋巴瘤",
+    "tail": "结节",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "皮下脂膜炎性T细胞淋巴瘤的常见临床表现包括脂膜炎。",
+    "head": "皮下脂膜炎性T细胞淋巴瘤",
+    "tail": "脂膜炎",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "皮下脂膜炎性T细胞淋巴瘤的常见临床表现包括寒战。",
+    "head": "皮下脂膜炎性T细胞淋巴瘤",
+    "tail": "寒战",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "金黄色葡萄球菌性肠炎的常见临床表现包括深黄色或带绿色。",
+    "head": "金黄色葡萄球菌性肠炎",
+    "tail": "深黄色或带绿色",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "金黄色葡萄球菌性肠炎的常见临床表现包括发热伴有腹痛。",
+    "head": "金黄色葡萄球菌性肠炎",
+    "tail": "发热伴有腹痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "慢性附睾炎的常见临床表现包括阴囊下坠。",
+    "head": "慢性附睾炎",
+    "tail": "阴囊下坠",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "慢性附睾炎的常见临床表现包括附睾结石。",
+    "head": "慢性附睾炎",
+    "tail": "附睾结石",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "慢性附睾炎的常见临床表现包括结节。",
+    "head": "慢性附睾炎",
+    "tail": "结节",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "慢性附睾炎的常见临床表现包括驻站医。",
+    "head": "慢性附睾炎",
+    "tail": "驻站医",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "慢性附睾炎的常见临床表现包括阴囊坠胀痛。",
+    "head": "慢性附睾炎",
+    "tail": "阴囊坠胀痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "慢性附睾炎的常见临床表现包括胀感。",
+    "head": "慢性附睾炎",
+    "tail": "胀感",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "梗阻性肾病的常见临床表现包括多尿。",
+    "head": "梗阻性肾病",
+    "tail": "多尿",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "梗阻性肾病的常见临床表现包括恶心。",
+    "head": "梗阻性肾病",
+    "tail": "恶心",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "梗阻性肾病的常见临床表现包括乏力。",
+    "head": "梗阻性肾病",
+    "tail": "乏力",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "梗阻性肾病的常见临床表现包括腹水。",
+    "head": "梗阻性肾病",
+    "tail": "腹水",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "梗阻性肾病的常见临床表现包括多饮。",
+    "head": "梗阻性肾病",
+    "tail": "多饮",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "梗阻性肾病的常见临床表现包括等渗尿。",
+    "head": "梗阻性肾病",
+    "tail": "等渗尿",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "梗阻性肾病的常见临床表现包括腹部肿块。",
+    "head": "梗阻性肾病",
+    "tail": "腹部肿块",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "鼻肿瘤的常见临床表现包括鼻出血。",
+    "head": "鼻肿瘤",
+    "tail": "鼻出血",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "鼻肿瘤的常见临床表现包括鼻塞。",
+    "head": "鼻肿瘤",
+    "tail": "鼻塞",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "鼻肿瘤的常见临床表现包括耳鸣。",
+    "head": "鼻肿瘤",
+    "tail": "耳鸣",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "顽痹的常见临床表现包括膝关节不能完全伸直。",
+    "head": "顽痹",
+    "tail": "膝关节不能完全伸直",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "顽痹的常见临床表现包括测试。",
+    "head": "顽痹",
+    "tail": "测试",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "主动脉瓣狭窄的常见临床表现包括端坐呼吸。",
+    "head": "主动脉瓣狭窄",
+    "tail": "端坐呼吸",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "主动脉瓣狭窄的常见临床表现包括心内膜弹力纤维增生。",
+    "head": "主动脉瓣狭窄",
+    "tail": "心内膜弹力纤维增生",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "主动脉瓣狭窄的常见临床表现包括意识丧失。",
+    "head": "主动脉瓣狭窄",
+    "tail": "意识丧失",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "主动脉瓣狭窄的常见临床表现包括猝死。",
+    "head": "主动脉瓣狭窄",
+    "tail": "猝死",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "主动脉瓣狭窄的常见临床表现包括心律失常。",
+    "head": "主动脉瓣狭窄",
+    "tail": "心律失常",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "主动脉瓣狭窄的常见临床表现包括阵发性夜间呼吸困难。",
+    "head": "主动脉瓣狭窄",
+    "tail": "阵发性夜间呼吸困难",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "主动脉瓣狭窄的常见临床表现包括心绞痛。",
+    "head": "主动脉瓣狭窄",
+    "tail": "心绞痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "主动脉瓣狭窄的常见临床表现包括收缩期杂音。",
+    "head": "主动脉瓣狭窄",
+    "tail": "收缩期杂音",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "主动脉瓣狭窄的常见临床表现包括呼吸困难。",
+    "head": "主动脉瓣狭窄",
+    "tail": "呼吸困难",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "II型糖尿病的常见临床表现包括多尿。",
+    "head": "II型糖尿病",
+    "tail": "多尿",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "II型糖尿病的常见临床表现包括乏力。",
+    "head": "II型糖尿病",
+    "tail": "乏力",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "II型糖尿病的常见临床表现包括多饮。",
+    "head": "II型糖尿病",
+    "tail": "多饮",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "II型糖尿病的常见临床表现包括视力障碍。",
+    "head": "II型糖尿病",
+    "tail": "视力障碍",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "II型糖尿病的常见临床表现包括体重减轻。",
+    "head": "II型糖尿病",
+    "tail": "体重减轻",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "II型糖尿病的常见临床表现包括糖尿病足部病变。",
+    "head": "II型糖尿病",
+    "tail": "糖尿病足部病变",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "II型糖尿病的常见临床表现包括血糖值升高。",
+    "head": "II型糖尿病",
+    "tail": "血糖值升高",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "II型糖尿病的常见临床表现包括胃肠道排空表现。",
+    "head": "II型糖尿病",
+    "tail": "胃肠道排空表现",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "虫咬皮炎的常见临床表现包括蚊虫刺咬炎症。",
+    "head": "虫咬皮炎",
+    "tail": "蚊虫刺咬炎症",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "虫咬皮炎的常见临床表现包括风团。",
+    "head": "虫咬皮炎",
+    "tail": "风团",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "虫咬皮炎的常见临床表现包括丘疹。",
+    "head": "虫咬皮炎",
+    "tail": "丘疹",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "虫咬皮炎的常见临床表现包括衣玉品。",
+    "head": "虫咬皮炎",
+    "tail": "衣玉品",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "胃肠道间质瘤的常见临床表现包括胃肠道出血。",
+    "head": "胃肠道间质瘤",
+    "tail": "胃肠道出血",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "胃肠道间质瘤的常见临床表现包括吞咽困难。",
+    "head": "胃肠道间质瘤",
+    "tail": "吞咽困难",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "胃肠道间质瘤的常见临床表现包括吞咽痛。",
+    "head": "胃肠道间质瘤",
+    "tail": "吞咽痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "胃肠道间质瘤的常见临床表现包括吞咽障碍。",
+    "head": "胃肠道间质瘤",
+    "tail": "吞咽障碍",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "胃肠道间质瘤的常见临床表现包括肠穿孔。",
+    "head": "胃肠道间质瘤",
+    "tail": "肠穿孔",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "多发性颅内血肿的常见临床表现包括颅骨连续性中断。",
+    "head": "多发性颅内血肿",
+    "tail": "颅骨连续性中断",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "多发性颅内血肿的常见临床表现包括挤压伤。",
+    "head": "多发性颅内血肿",
+    "tail": "挤压伤",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "多发性颅内血肿的常见临床表现包括意识障碍。",
+    "head": "多发性颅内血肿",
+    "tail": "意识障碍",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "多发性颅内血肿的常见临床表现包括昏迷。",
+    "head": "多发性颅内血肿",
+    "tail": "昏迷",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "鼻中隔穿孔的常见临床表现包括鼻出血。",
+    "head": "鼻中隔穿孔",
+    "tail": "鼻出血",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "鼻中隔穿孔的常见临床表现包括鼻塞。",
+    "head": "鼻中隔穿孔",
+    "tail": "鼻塞",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "鼻中隔穿孔的常见临床表现包括鼻衄。",
+    "head": "鼻中隔穿孔",
+    "tail": "鼻衄",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "鼻中隔穿孔的常见临床表现包括鼻中隔穿孔。",
+    "head": "鼻中隔穿孔",
+    "tail": "鼻中隔穿孔",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "瘢痕性脱发的常见临床表现包括永久性秃发。",
+    "head": "瘢痕性脱发",
+    "tail": "永久性秃发",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "瘢痕性脱发的常见临床表现包括风盛血燥。",
+    "head": "瘢痕性脱发",
+    "tail": "风盛血燥",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "瘢痕性脱发的常见临床表现包括脱发。",
+    "head": "瘢痕性脱发",
+    "tail": "脱发",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "瘢痕性脱发的常见临床表现包括普秃。",
+    "head": "瘢痕性脱发",
+    "tail": "普秃",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "瘢痕性脱发的常见临床表现包括精血不足。",
+    "head": "瘢痕性脱发",
+    "tail": "精血不足",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "瘢痕性脱发的常见临床表现包括斑秃。",
+    "head": "瘢痕性脱发",
+    "tail": "斑秃",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "毒热侵肤的常见临床表现包括烦躁不安。",
+    "head": "毒热侵肤",
+    "tail": "烦躁不安",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "毒热侵肤的常见临床表现包括便秘。",
+    "head": "毒热侵肤",
+    "tail": "便秘",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "毒热侵肤的常见临床表现包括鳞屑。",
+    "head": "毒热侵肤",
+    "tail": "鳞屑",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "毒热侵肤的常见临床表现包括瘀斑。",
+    "head": "毒热侵肤",
+    "tail": "瘀斑",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "渗出性多形红斑的常见临床表现包括衣玉品。",
+    "head": "渗出性多形红斑",
+    "tail": "衣玉品",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "渗出性多形红斑的常见临床表现包括结节。",
+    "head": "渗出性多形红斑",
+    "tail": "结节",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "渗出性多形红斑的常见临床表现包括食欲不振。",
+    "head": "渗出性多形红斑",
+    "tail": "食欲不振",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "渗出性多形红斑的常见临床表现包括气血凝滞。",
+    "head": "渗出性多形红斑",
+    "tail": "气血凝滞",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "渗出性多形红斑的常见临床表现包括脾虚。",
+    "head": "渗出性多形红斑",
+    "tail": "脾虚",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "渗出性多形红斑的常见临床表现包括丘疹。",
+    "head": "渗出性多形红斑",
+    "tail": "丘疹",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "湿痹的常见临床表现包括湿气重。",
+    "head": "湿痹",
+    "tail": "湿气重",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "湿痹的常见临床表现包括骨痹。",
+    "head": "湿痹",
+    "tail": "骨痹",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "湿痹的常见临床表现包括脉沉缓或沉细。",
+    "head": "湿痹",
+    "tail": "脉沉缓或沉细",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "鱼鳞病的常见临床表现包括肢端角化。",
+    "head": "鱼鳞病",
+    "tail": "肢端角化",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "鱼鳞病的常见临床表现包括层状鱼鳞癣。",
+    "head": "鱼鳞病",
+    "tail": "层状鱼鳞癣",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "鱼鳞病的常见临床表现包括大量皮肤脱屑。",
+    "head": "鱼鳞病",
+    "tail": "大量皮肤脱屑",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "鱼鳞病的常见临床表现包括表皮角化。",
+    "head": "鱼鳞病",
+    "tail": "表皮角化",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "环跳疽的常见临床表现包括脓肿。",
+    "head": "环跳疽",
+    "tail": "脓肿",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "环跳疽的常见临床表现包括恶寒。",
+    "head": "环跳疽",
+    "tail": "恶寒",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "胆道张力低下综合征的常见临床表现包括消化不良。",
+    "head": "胆道张力低下综合征",
+    "tail": "消化不良",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "胆道张力低下综合征的常见临床表现包括恶心。",
+    "head": "胆道张力低下综合征",
+    "tail": "恶心",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "胆道张力低下综合征的常见临床表现包括胆囊的超敏反应。",
+    "head": "胆道张力低下综合征",
+    "tail": "胆囊的超敏反应",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "胆道张力低下综合征的常见临床表现包括胆囊收缩功能不良。",
+    "head": "胆道张力低下综合征",
+    "tail": "胆囊收缩功能不良",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "胆道张力低下综合征的常见临床表现包括上腹不适。",
+    "head": "胆道张力低下综合征",
+    "tail": "上腹不适",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "胆道张力低下综合征的常见临床表现包括胆囊增大。",
+    "head": "胆道张力低下综合征",
+    "tail": "胆囊增大",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿颅内肿瘤的常见临床表现包括反复发作性头痛。",
+    "head": "小儿颅内肿瘤",
+    "tail": "反复发作性头痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿颅内肿瘤的常见临床表现包括头晕。",
+    "head": "小儿颅内肿瘤",
+    "tail": "头晕",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿颅内肿瘤的常见临床表现包括意识障碍。",
+    "head": "小儿颅内肿瘤",
+    "tail": "意识障碍",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿颅内肿瘤的常见临床表现包括颅压增高。",
+    "head": "小儿颅内肿瘤",
+    "tail": "颅压增高",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿颅内肿瘤的常见临床表现包括表情淡漠。",
+    "head": "小儿颅内肿瘤",
+    "tail": "表情淡漠",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿颅内肿瘤的常见临床表现包括嗜睡。",
+    "head": "小儿颅内肿瘤",
+    "tail": "嗜睡",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿颅内肿瘤的常见临床表现包括囟门跳动。",
+    "head": "小儿颅内肿瘤",
+    "tail": "囟门跳动",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿颅内肿瘤的常见临床表现包括代超。",
+    "head": "小儿颅内肿瘤",
+    "tail": "代超",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "小儿颅内肿瘤的常见临床表现包括颅缝过早闭合。",
+    "head": "小儿颅内肿瘤",
+    "tail": "颅缝过早闭合",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "复发性溃疡的常见临床表现包括嗳气。",
+    "head": "复发性溃疡",
+    "tail": "嗳气",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "复发性溃疡的常见临床表现包括消化不良。",
+    "head": "复发性溃疡",
+    "tail": "消化不良",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "复发性溃疡的常见临床表现包括恶心。",
+    "head": "复发性溃疡",
+    "tail": "恶心",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "复发性溃疡的常见临床表现包括腹痛。",
+    "head": "复发性溃疡",
+    "tail": "腹痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "复发性溃疡的常见临床表现包括消化性溃疡。",
+    "head": "复发性溃疡",
+    "tail": "消化性溃疡",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "复发性溃疡的常见临床表现包括腹泻。",
+    "head": "复发性溃疡",
+    "tail": "腹泻",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脂溢性脱发的常见临床表现包括瘙痒。",
+    "head": "脂溢性脱发",
+    "tail": "瘙痒",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脂溢性脱发的常见临床表现包括鳞屑。",
+    "head": "脂溢性脱发",
+    "tail": "鳞屑",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脂溢性脱发的常见临床表现包括病理性脱发。",
+    "head": "脂溢性脱发",
+    "tail": "病理性脱发",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "脂溢性脱发的常见临床表现包括血虚脱发。",
+    "head": "脂溢性脱发",
+    "tail": "血虚脱发",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "老年人单纯疱疹病毒性脑炎的常见临床表现包括口唇疱疹。",
+    "head": "老年人单纯疱疹病毒性脑炎",
+    "tail": "口唇疱疹",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "老年人单纯疱疹病毒性脑炎的常见临床表现包括人格改变。",
+    "head": "老年人单纯疱疹病毒性脑炎",
+    "tail": "人格改变",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "老年人单纯疱疹病毒性脑炎的常见临床表现包括抽搐。",
+    "head": "老年人单纯疱疹病毒性脑炎",
+    "tail": "抽搐",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "老年人单纯疱疹病毒性脑炎的常见临床表现包括脑膜刺激征。",
+    "head": "老年人单纯疱疹病毒性脑炎",
+    "tail": "脑膜刺激征",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "老年人单纯疱疹病毒性脑炎的常见临床表现包括昏迷。",
+    "head": "老年人单纯疱疹病毒性脑炎",
+    "tail": "昏迷",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "内痔的常见临床表现包括产后便血。",
+    "head": "内痔",
+    "tail": "产后便血",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "内痔的常见临床表现包括肛门疼痛。",
+    "head": "内痔",
+    "tail": "肛门疼痛",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "内痔的常见临床表现包括肛门坠胀。",
+    "head": "内痔",
+    "tail": "肛门坠胀",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "内痔的常见临床表现包括便血。",
+    "head": "内痔",
+    "tail": "便血",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "内痔的常见临床表现包括痔出血。",
+    "head": "内痔",
+    "tail": "痔出血",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "内痔的常见临床表现包括肛门瘙痒。",
+    "head": "内痔",
+    "tail": "肛门瘙痒",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "内痔的常见临床表现包括痔核。",
+    "head": "内痔",
+    "tail": "痔核",
+    "relation": "HAS_SYMPTOM"
+  },
+  {
+    "text": "香砂六君子汤在临床上主要用于治疗阿米巴病。",
+    "head": "香砂六君子汤",
+    "tail": "阿米巴病",
+    "relation": "TREATS"
+  }
+]

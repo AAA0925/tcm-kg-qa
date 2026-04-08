@@ -35,7 +35,7 @@
       </el-aside>
       <el-container>
         <!-- 顶部用户信息栏 -->
-        <el-header style="background-color: #fff; border-bottom: 1px solid #e6e6e6; display: flex; justify-content: flex-end; align-items: center; padding-right: 20px;">
+        <el-header class="app-header">
           <el-dropdown @command="handleCommand" trigger="click">
             <span class="el-dropdown-link" style="cursor: pointer; display: flex; align-items: center;">
               <el-avatar :size="32" :src="userAvatar" icon="User" style="margin-right: 10px;" />
@@ -139,12 +139,61 @@ export default {
 </script>
 
 <style>
+/* 全局重置，解决缩放溢出 */
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
 #app {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
 }
+
+.el-container {
+  width: 100%;
+  height: 100%;
+}
+
+/* 侧边栏 */
+.el-aside {
+  min-width: 200px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+/* 关键修复：允许右侧内容区收缩 */
+.el-container > .el-container {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.app-header {
+  background-color: #fff;
+  border-bottom: 1px solid #e6e6e6;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: 20px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
 .el-main {
   padding: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
 }
 </style>

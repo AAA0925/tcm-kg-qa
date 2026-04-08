@@ -1,85 +1,67 @@
 from typing import List
 from loguru import logger
-import re
+import sys
+import os
+
+# 确保能导入 backend 根目录下的 models 模块
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..', '..'))
+
+try:
+    from models.net.inference import ner_infer
+    USE_MODEL = True
+except Exception as e:
+    USE_MODEL = False
+    logger.warning(f"NER 模型加载失败，将使用正则匹配兜底: {e}")
+
 from app.services.kg import kg_client
 
 class EntityExtractor:
-    """实体提取器 - 从用户问题中识别实体"""
-    
     def __init__(self):
-        self.kg_client = kg_client
+        pass
     
     def extract(self, question: str) -> List[str]:
-        """
-        从问题中提取实体
-        
-        Args:
-            question: 用户问题
-            
-        Returns:
-            实体列表
-        """
         entities = []
         
-        # 方法1：去除问句特征词，提取核心关键词
-        # 常见问句模式："XX有什么症状？"、"XX怎么治疗？"、"XX是什么？"
-        question_patterns = [
-            r'(.+?)有什么症状',
-            r'(.+?)怎么治疗',
-            r'(.+?)怎么治',
-            r'(.+?)怎么办',
-            r'(.+?)的症状',
-            r'(.+?)的治疗方法',
-            r'(.+?)是什么',
-            r'(.+?)的功效',
-            r'(.+?)的作用',
-        ]
+        if USE_MODEL:
+            try:
+                # 1. 使用训练好的 ALBERT-BiLSTM-CRF 模型
+                results = ner_infer.predict(question)
+                raw_entities = [r['text'] for r in results]
+                logger.info(f"模型原始提取结果: {raw_entities}")
+                
+                # 2. RAG 辅助校验：利用 Neo4j 模糊匹配修正实体
+                for ent in raw_entities:
+                    # 尝试精确匹配
+                    exact_match = kg_client.query_by_entity(ent, enable_fuzzy=False)
+                    if exact_match:
+                        # 使用图谱中实际存在的实体名
+                        entities.append(exact_match[0]["n"]["name"])
+                    else:
+                        # 如果精确匹配失败，尝试寻找最长匹配子串
+                        found = False
+                        for length in range(len(ent), 1, -1):
+                            for i in range(len(ent) - length + 1):
+                                sub_ent = ent[i:i+length]
+                                fuzzy_match = kg_client.query_by_entity(sub_ent, enable_fuzzy=True)
+                                if fuzzy_match:
+                                    # 使用图谱中实际存在的实体名，避免截取错误（如“人”匹配到“人参”）
+                                    matched_name = fuzzy_match[0]["n"]["name"]
+                                    if matched_name not in entities:
+                                        entities.append(matched_name)
+                                    found = True
+                                    break
+                            if found: break
+            except Exception as e:
+                logger.error(f"模型推理出错: {e}")
         
-        for pattern in question_patterns:
-            match = re.search(pattern, question)
-            if match:
-                entity_name = match.group(1).strip()
-                if entity_name and len(entity_name) > 0:
-                    entities.append(entity_name)
-                    logger.info(f"模式匹配到实体: {entity_name}")
-                    break  # 找到就停止
-        
-        # 方法2：如果方法1没找到，尝试用Neo4j模糊匹配
+        # 如果模型没提取到，使用简单的正则兜底
         if not entities:
-            # 提取2-5个字符的连续文本
-            stop_words = ["的", "了", "吗", "呢", "啊", "什么", "怎么", "如何", "为什么", "有", "是"]
-            cleaned = re.sub(r'[？?，。！、；：""''（）【】《》]', '', question)
-            
-            # 尝试不同长度的词
-            for length in [5, 4, 3, 2]:
-                words = [cleaned[i:i+length] for i in range(len(cleaned)-length+1)]
-                for word in words:
-                    if word not in stop_words and len(word) >= 2:
-                        # 在Neo4j中模糊搜索
-                        try:
-                            fuzzy_results = self.kg_client.query_by_entity(word, enable_fuzzy=True)
-                            if fuzzy_results:
-                                # 取第一个匹配的实体名
-                                matched_name = fuzzy_results[0]["n"]["name"]
-                                entities.append(matched_name)
-                                logger.info(f"模糊匹配到实体: {matched_name} (关键词: {word})")
-                                break
-                        except:
-                            pass
-                if entities:
+            import re
+            patterns = [r'(.+?)有什么症状', r'(.+?)怎么治疗', r'(.+?)怎么办']
+            for pattern in patterns:
+                match = re.search(pattern, question)
+                if match:
+                    entities.append(match.group(1).strip())
                     break
-        
-        # 方法3：如果还是没找到，使用整个问题的核心部分
-        if not entities:
-            # 去除常见问句词
-            core = re.sub(r'(有什么|怎么|如何|为什么|的症状|的治疗|怎么办|是什么)', '', question)
-            core = core.strip()
-            if core:
-                entities = [core[:10]]
-                logger.warning(f"未提取到实体，使用核心词: {entities[0]}")
-        
-        # 去重
-        entities = list(set(entities))
-        
-        logger.info(f"实体提取完成，共提取 {len(entities)} 个实体: {entities}")
-        return entities
+                    
+        return list(set(entities))

@@ -1,0 +1,10402 @@
+[
+  {
+    "text": "弥漫性特发性骨肥厚的常见症状包括硬化。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "弥漫性特发性骨肥厚的常见症状包括肘痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "弥漫性特发性骨肥厚的常见症状包括足痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "弥漫性特发性骨肥厚的常见症状包括足跟痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "弥漫性特发性骨肥厚的常见症状包括血脂异常。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "弥漫性特发性骨肥厚的常见症状包括钙化。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "弥漫性特发性骨肥厚的常见症状包括韧带骨化。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "筋瘤的常见症状包括静脉曲张。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "月经失调性不孕症的常见症状包括闭经。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "月经失调性不孕症的常见症状包括月经量少。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "月经失调性不孕症的常见症状包括腹痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "月经失调性不孕症的常见症状包括月经稀少。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "月经失调性不孕症的常见症状包括月经发黑。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "月经失调性不孕症的常见症状包括痛经。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "月经失调性不孕症的常见症状包括月经量多。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "月经失调性不孕症的常见症状包括月经周期改变。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "夏伊德雷格综合征的常见症状包括腱反射亢进。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "夏伊德雷格综合征的常见症状包括头晕。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "夏伊德雷格综合征的常见症状包括便秘。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "夏伊德雷格综合征的常见症状包括排便障碍。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "夏伊德雷格综合征的常见症状包括共济失调。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "夏伊德雷格综合征的常见症状包括腹泻。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "夏伊德雷格综合征的常见症状包括出汗异常。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "夏伊德雷格综合征的常见症状包括眼花。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "夏伊德雷格综合征的常见症状包括晕厥。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "夏伊德雷格综合征的常见症状包括排尿障碍。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "B链球菌群感染的常见症状包括脑膜炎。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "B链球菌群感染的常见症状包括脓肿。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "B链球菌群感染的常见症状包括败血症。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "B链球菌群感染的常见症状包括肺部感染。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "B链球菌群感染的常见症状包括细菌感染。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脾肝综合征的常见症状包括厌食。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脾肝综合征的常见症状包括消化不良。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脾肝综合征的常见症状包括恶心。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脾肝综合征的常见症状包括鼻子黄色或棕色。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脾肝综合征的常见症状包括乏力。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脾肝综合征的常见症状包括门脉高压。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脾肝综合征的常见症状包括腹泻。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脾肝综合征的常见症状包括肝功能受损。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脾肝综合征的常见症状包括脏腑功能失调。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "五软的常见症状包括吮乳困难。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "五软的常见症状包括目光呆滞。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "五软的常见症状包括舌无力且不能随。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      },
+      {
+        "start": 9,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "五软的常见症状包括颈软不能抬头。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "五软的常见症状包括膝关节软弱无力。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 16,
+        "type": "SYM"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "五软的常见症状包括无力。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "老年癌症病人的急性感染的常见症状包括啰音。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "老年癌症病人的急性感染的常见症状包括反应迟钝。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "老年癌症病人的急性感染的常见症状包括免疫缺陷。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "老年癌症病人的急性感染的常见症状包括尿频。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "老年癌症病人的急性感染的常见症状包括泌尿系感染。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 18,
+        "end": 23,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "老年癌症病人的急性感染的常见症状包括粒细胞减少。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 18,
+        "end": 23,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脉络膜炎的常见症状包括视物变形。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脉络膜炎的常见症状包括眼前冒火花或眼前闪光。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 21,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脉络膜炎的常见症状包括夜盲。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脉络膜炎的常见症状包括视力障碍。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脉络膜炎的常见症状包括视力常呈雾状模糊感。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脉络膜炎的常见症状包括展峰。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "下疳样脓皮病的常见症状包括硬下疳。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "下疳样脓皮病的常见症状包括脓疱。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "下疳样脓皮病的常见症状包括丘疹。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "下疳样脓皮病的常见症状包括脓性分泌物。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "老年人结核性脑膜炎的常见症状包括脑膜炎。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 19,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "SYM"
+      },
+      {
+        "start": 16,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "老年人结核性脑膜炎的常见症状包括毒血症。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 19,
+        "type": "SYM"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "老年人结核性脑膜炎的常见症状包括颅内压增高。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "type": "SYM"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "老年人结核性脑膜炎的常见症状包括低热。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "SYM"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "老年人结核性脑膜炎的常见症状包括乏力。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "老年人结核性脑膜炎的常见症状包括脑膜刺激征。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "type": "SYM"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "老年人结核性脑膜炎的常见症状包括脑积水。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 19,
+        "type": "SYM"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "老年人结核性脑膜炎的常见症状包括不自主运动。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "type": "SYM"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "老年人结核性脑膜炎的常见症状包括昏迷。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "DIS"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "病毒性感冒的常见症状包括情绪性感冒。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "病毒性感冒的常见症状包括打喷嚏。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "病毒性感冒的常见症状包括鼻塞。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "病毒性感冒的常见症状包括流鼻涕。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "病毒性感冒的常见症状包括咳嗽。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "病毒性感冒的常见症状包括咽痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "病毒性感冒的常见症状包括感染性发热。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "克雷白杆菌属感染的常见症状包括前列腺肥大。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "克雷白杆菌属感染的常见症状包括腹腔感染。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "克雷白杆菌属感染的常见症状包括弛张热。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "克雷白杆菌属感染的常见症状包括发绀。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "克雷白杆菌属感染的常见症状包括急性面容。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "克雷白杆菌属感染的常见症状包括咯血。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "克雷白杆菌属感染的常见症状包括呼吸困难。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "克雷白杆菌属感染的常见症状包括肺部感染。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "雷凡斯坦综合征的常见症状包括阴蒂肥大。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "雷凡斯坦综合征的常见症状包括先天性无子宫。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "雷凡斯坦综合征的常见症状包括盲袋阴道。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "单纯疱疹性脑炎的常见症状包括惊厥。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "单纯疱疹性脑炎的常见症状包括抽搐。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "单纯疱疹性脑炎的常见症状包括定向力障碍。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "type": "SYM"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "单纯疱疹性脑炎的常见症状包括昏睡。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "SYM"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "单纯疱疹性脑炎的常见症状包括幻觉。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "单纯疱疹性脑炎的常见症状包括中枢性发热。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "SYM"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "单纯疱疹性脑炎的常见症状包括点状出血。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "SYM"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "单纯疱疹性脑炎的常见症状包括驻站医。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "SYM"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "单纯疱疹性脑炎的常见症状包括昏迷。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "SYM"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肝厥的常见症状包括抑郁。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肝厥的常见症状包括头昏。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肝厥的常见症状包括抽搐。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肝厥的常见症状包括烦躁不安。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肝厥的常见症状包括谵妄。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肝厥的常见症状包括手脚冰凉。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肝厥的常见症状包括肝臭。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肝厥的常见症状包括嗜睡。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肝厥的常见症状包括昏迷。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "剥脱性皮炎型药疹的常见症状包括剥脱性皮炎。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "type": "SYM"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "剥脱性皮炎型药疹的常见症状包括猩红热样皮疹。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "type": "SYM"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "乳糜腹的常见症状包括腹膜炎。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "乳糜腹的常见症状包括腹壁静脉怒张。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "乳糜腹的常见症状包括恶心。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "乳糜腹的常见症状包括腹痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "乳糜腹的常见症状包括低蛋白血症。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "乳糜腹的常见症状包括腹胀。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "乳糜腹的常见症状包括腹水。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "乳糜腹的常见症状包括腹泻。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "乳糜腹的常见症状包括移动性浊音。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "乳糜腹的常见症状包括肠鸣。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脐炎的常见症状包括腹膜炎。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脐炎的常见症状包括脐轮红肿。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脐炎的常见症状包括脐窝内有樱红色。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脐炎的常见症状包括烦躁不安。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脐炎的常见症状包括败血症。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脐炎的常见症状包括呼吸困难。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脐炎的常见症状包括脐周明显红肿变硬。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脐炎的常见症状包括淋巴结肿大。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脐炎的常见症状包括脐湿。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "孢子丝菌病的常见症状包括脑膜炎。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "孢子丝菌病的常见症状包括脓疱。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "孢子丝菌病的常见症状包括丘疹。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "孢子丝菌病的常见症状包括结痂。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "疣状角化不良病的常见症状包括瘙痒。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "疣状角化不良病的常见症状包括衣玉品。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "疣状角化不良病的常见症状包括结节。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "疣状角化不良病的常见症状包括角质化。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "疣状角化不良病的常见症状包括丘疹。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "急性蜂窝织炎的常见症状包括惊厥。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "急性蜂窝织炎的常见症状包括喉头水肿。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "急性蜂窝织炎的常见症状包括窒息。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "急性蜂窝织炎的常见症状包括畏寒。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "急性蜂窝织炎的常见症状包括乏力。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "急性蜂窝织炎的常见症状包括谵妄。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "急性蜂窝织炎的常见症状包括呼吸困难。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肺炎杆菌肺炎的常见症状包括发热伴咳嗽咯。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      },
+      {
+        "start": 13,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肺炎杆菌肺炎的常见症状包括气急。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肺炎杆菌肺炎的常见症状包括胸痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肺炎杆菌肺炎的常见症状包括畏寒。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "癌症的常见症状包括消瘦。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "癌症的常见症状包括癌性发热。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "癌症的常见症状包括胸闷。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "癌症的常见症状包括恶病质。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "癌症的常见症状包括食欲下降。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "癌症的常见症状包括反复出血。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "癌症的常见症状包括恶性贫血。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "癌症的常见症状包括不明原因发热。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "皮肤松垂的常见症状包括鼻唇沟加深。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "皮肤松垂的常见症状包括上睑下垂。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "皮肤松垂的常见症状包括睑外翻。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "皮肤松垂的常见症状包括湿疹。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "水痘性角膜炎的常见症状包括角膜炎。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "SYM"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "水痘性角膜炎的常见症状包括角膜树枝状改变。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "SYM"
+      },
+      {
+        "start": 13,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "水痘性角膜炎的常见症状包括眼痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "SYM"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "家族性红细胞增多症的常见症状包括头胀。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "家族性红细胞增多症的常见症状包括头晕。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "家族性红细胞增多症的常见症状包括四肢麻木。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "感染性血小板减少性紫癜的常见症状包括口唇出血。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "type": "SYM"
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "type": "SYM"
+      },
+      {
+        "start": 3,
+        "end": 8,
+        "type": "SYM"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      },
+      {
+        "start": 3,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "感染性血小板减少性紫癜的常见症状包括血小板减少。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 8,
+        "type": "SYM"
+      },
+      {
+        "start": 18,
+        "end": 23,
+        "type": "SYM"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      },
+      {
+        "start": 3,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "感染性血小板减少性紫癜的常见症状包括牙龈出血。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "type": "SYM"
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "type": "SYM"
+      },
+      {
+        "start": 3,
+        "end": 8,
+        "type": "SYM"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      },
+      {
+        "start": 3,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "感染性血小板减少性紫癜的常见症状包括碰撞后皮肤容易青紫。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 8,
+        "type": "SYM"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      },
+      {
+        "start": 3,
+        "end": 11,
+        "type": "SYM"
+      },
+      {
+        "start": 18,
+        "end": 27,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "感染性血小板减少性紫癜的常见症状包括血小板减少性紫癜。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 18,
+        "end": 26,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 8,
+        "type": "SYM"
+      },
+      {
+        "start": 18,
+        "end": 23,
+        "type": "SYM"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "type": "SYM"
+      },
+      {
+        "start": 3,
+        "end": 11,
+        "type": "SYM"
+      },
+      {
+        "start": 18,
+        "end": 26,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肝咳的常见症状包括肝气犯肺。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肝咳的常见症状包括胸痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肝咳的常见症状包括中指半月甲呈粉红色。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "副球孢子菌病的常见症状包括恶心。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "副球孢子菌病的常见症状包括乏力。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "副球孢子菌病的常见症状包括腹水。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "副球孢子菌病的常见症状包括呼吸困难。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "副球孢子菌病的常见症状包括丘疹。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "副球孢子菌病的常见症状包括淋巴结肿大。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "I型肾小管性酸中毒的常见症状包括心悸。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "I型肾小管性酸中毒的常见症状包括脱水。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "I型肾小管性酸中毒的常见症状包括多尿。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "I型肾小管性酸中毒的常见症状包括恶心。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "I型肾小管性酸中毒的常见症状包括心律失常。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "I型肾小管性酸中毒的常见症状包括乏力。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "I型肾小管性酸中毒的常见症状包括气短。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "I型肾小管性酸中毒的常见症状包括骨痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "I型肾小管性酸中毒的常见症状包括骨质疏松。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "I型肾小管性酸中毒的常见症状包括恶心与呕吐。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "type": "SYM"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "神经病性关节病的常见症状包括持续性疼痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "type": "SYM"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "马牙的常见症状包括驻站医。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "马牙的常见症状包括摇头转颈。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "马牙的常见症状包括婴儿厌食。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "开放性脑外伤的常见症状包括感觉障碍。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "开放性脑外伤的常见症状包括瞳孔异常。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "开放性脑外伤的常见症状包括颅内压增高。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "开放性脑外伤的常见症状包括脑膜刺激征。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "开放性脑外伤的常见症状包括意识障碍。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "开放性脑外伤的常见症状包括血压波动大。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "开放性脑外伤的常见症状包括呼吸异常。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "开放性脑外伤的常见症状包括精神障碍。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "开放性脑外伤的常见症状包括颅内出血。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "SYM"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "开放性脑外伤的常见症状包括昏迷。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "视网膜病变的常见症状包括点状出血。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "视网膜病变的常见症状包括视力障碍。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "视网膜病变的常见症状包括视物变形。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "酒精中毒性神经疾病的常见症状包括胎儿酒精综合征。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "酒精中毒性神经疾病的常见症状包括病理性醉酒。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "type": "SYM"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "酒精中毒性神经疾病的常见症状包括抽搐。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "酒精中毒性神经疾病的常见症状包括仪平。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "酒精中毒性神经疾病的常见症状包括木僵。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "酒精中毒性神经疾病的常见症状包括共济失调。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "酒精中毒性神经疾病的常见症状包括痴呆。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "酒精中毒性神经疾病的常见症状包括昏迷。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "子嗽的常见症状包括血丝痰。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "子嗽的常见症状包括胸闷。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "子嗽的常见症状包括孕妇胸闷气短。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "type": "SYM"
+      },
+      {
+        "start": 9,
+        "end": 15,
+        "type": "SYM"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "子嗽的常见症状包括咳嗽。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "儿童白斑的常见症状包括色素沉着与色素减退。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "儿童白斑的常见症状包括色素脱失。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "儿童白斑的常见症状包括额部白斑。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "儿童白斑的常见症状包括小儿脸上有白斑。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "儿童白斑的常见症状包括色素性皮损。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "儿童白斑的常见症状包括色素异常。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肺咳的常见症状包括喘息。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肺咳的常见症状包括咳嗽。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肺咳的常见症状包括口干舌燥。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肺咳的常见症状包括声音嘶哑。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肺咳的常见症状包括夜间咳嗽。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "慢惊风的常见症状包括手抽筋。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "慢惊风的常见症状包括消瘦。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "慢惊风的常见症状包括低热。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "慢惊风的常见症状包括抽搐。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "慢惊风的常见症状包括腹泻。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "慢惊风的常见症状包括面色苍白。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "慢惊风的常见症状包括嗜睡。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "慢惊风的常见症状包括无力。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "慢惊风的常见症状包括疲劳。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "颈椎黄韧带骨化症的常见症状包括脊髓压迫。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "SYM"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "颈椎黄韧带骨化症的常见症状包括头颈部活动受限。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "SYM"
+      },
+      {
+        "start": 15,
+        "end": 22,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "颈椎黄韧带骨化症的常见症状包括腱反射亢进。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "type": "SYM"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "颈椎黄韧带骨化症的常见症状包括颈部疼痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "type": "SYM"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "SYM"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "颈椎黄韧带骨化症的常见症状包括乏力。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "SYM"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "颈椎黄韧带骨化症的常见症状包括感觉障碍。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "SYM"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "颈椎黄韧带骨化症的常见症状包括韧带骨化。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "SYM"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "颈椎黄韧带骨化症的常见症状包括脊髓受压。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "SYM"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "颈椎黄韧带骨化症的常见症状包括踝阵挛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "SYM"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "type": "SYM"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "阑尾腺癌的常见症状包括下腹痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "阑尾腺癌的常见症状包括消瘦。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "阑尾腺癌的常见症状包括右下腹痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "type": "SYM"
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "阑尾腺癌的常见症状包括乏力。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "阑尾腺癌的常见症状包括阑尾脓肿。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "阑尾腺癌的常见症状包括腹痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "阑尾腺癌的常见症状包括腹水。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "阑尾腺癌的常见症状包括食欲下降。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "阑尾腺癌的常见症状包括阑尾穿孔。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肋软骨炎的常见症状包括肋骨痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肋软骨炎的常见症状包括侧肋骨痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "type": "SYM"
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肋软骨炎的常见症状包括第２肋软骨痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      },
+      {
+        "start": 11,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "青春期功能失调性子宫出血病的常见症状包括闭经。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "type": "SYM"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "青春期功能失调性子宫出血病的常见症状包括消瘦。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "type": "SYM"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "青春期功能失调性子宫出血病的常见症状包括乏力。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "type": "SYM"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "青春期功能失调性子宫出血病的常见症状包括头晕。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "type": "SYM"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "青春期功能失调性子宫出血病的常见症状包括气短。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "type": "SYM"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "青春期功能失调性子宫出血病的常见症状包括食欲不振。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      },
+      {
+        "start": 20,
+        "end": 24,
+        "type": "SYM"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "青春期功能失调性子宫出血病的常见症状包括子宫出血。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "type": "SYM"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "type": "SYM"
+      },
+      {
+        "start": 20,
+        "end": 24,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "青春期功能失调性子宫出血病的常见症状包括阴道持续中量流血。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "type": "SYM"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "泌尿感染的常见症状包括尿急。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "泌尿感染的常见症状包括尿频伴尿急和尿痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "type": "SYM"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      },
+      {
+        "start": 11,
+        "end": 19,
+        "type": "SYM"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "泌尿感染的常见症状包括尿痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "泌尿感染的常见症状包括恶心。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "泌尿感染的常见症状包括血尿。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "泌尿感染的常见症状包括尿频。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "泌尿感染的常见症状包括发烧。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "泌尿感染的常见症状包括神经性尿频。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "泌尿感染的常见症状包括腰痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "崩漏的常见症状包括革脉。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "崩漏的常见症状包括子宫出血。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "崩漏的常见症状包括阴道出血。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "崩漏的常见症状包括腹部不适。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "崩漏的常见症状包括驻站医。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "苏格兰脑炎的常见症状包括低热。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "上腔静脉综合征的常见症状包括发绀。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "上腔静脉综合征的常见症状包括咳嗽。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "上腔静脉综合征的常见症状包括呼吸困难。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "上腔静脉综合征的常见症状包括胸痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "上腔静脉综合征的常见症状包括上肢水肿。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肾石症的常见症状包括腰背刺痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肾石症的常见症状包括腰背的持续隐痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肾石症的常见症状包括腰背痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肾石症的常见症状包括排尿不畅。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肾石症的常见症状包括血尿。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肾石症的常见症状包括尿痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肾石症的常见症状包括排尿疼痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "心阴虚的常见症状包括多梦。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "心阴虚的常见症状包括潮红潮热。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "心阴虚的常见症状包括盗汗。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "心阴虚的常见症状包括面色苍白。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "心阴虚的常见症状包括阴虚体质。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "心阴虚的常见症状包括烦热。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "心阴虚的常见症状包括健忘。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "心阴虚的常见症状包括失眠。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "旋前圆肌综合征的常见症状包括感觉障碍。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "旋前圆肌综合征的常见症状包括代超。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "旋前圆肌综合征的常见症状包括放射性疼痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "type": "SYM"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "旋前圆肌综合征的常见症状包括肌肉萎缩。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "旋前圆肌综合征的常见症状包括肩胛放射性疼痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "type": "SYM"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "type": "SYM"
+      },
+      {
+        "start": 14,
+        "end": 21,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "旋前圆肌综合征的常见症状包括腕部疼痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "旋前圆肌综合征的常见症状包括闫铁。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肱骨外上髁炎的常见症状包括肘痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肱骨外上髁炎的常见症状包括肘部的肿胀压痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肱骨外上髁炎的常见症状包括肢体疼痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肱骨外上髁炎的常见症状包括肘外侧肿痛及功能障碍。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 23,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "鼻疽假单胞菌肺炎的常见症状包括结痂。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "鼻疽假单胞菌肺炎的常见症状包括毒血症。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "鼻疽假单胞菌肺炎的常见症状包括低热。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "鼻疽假单胞菌肺炎的常见症状包括败血症。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "鼻疽假单胞菌肺炎的常见症状包括肌痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "鼻疽假单胞菌肺炎的常见症状包括鼻中隔穿孔。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "鼻疽假单胞菌肺炎的常见症状包括测试。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "鼻疽假单胞菌肺炎的常见症状包括淋巴结肿大。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "鼻疽假单胞菌肺炎的常见症状包括寒战。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "褶烂的常见症状包括新生儿皮肤褶皱。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "褶烂的常见症状包括丘疹。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "褶烂的常见症状包括闫利霞。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿糖原贮积病Ⅱ型的常见症状包括生长缓慢。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿糖原贮积病Ⅱ型的常见症状包括烦躁不安。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿糖原贮积病Ⅱ型的常见症状包括肌张力减低。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿糖原贮积病Ⅱ型的常见症状包括腱反射消失。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿糖原贮积病Ⅱ型的常见症状包括食欲不振。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿糖原贮积病Ⅱ型的常见症状包括呼吸困难。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿糖原贮积病Ⅱ型的常见症状包括呼吸衰竭。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿糖原贮积病Ⅱ型的常见症状包括巨舌。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "痿病的常见症状包括肌肉萎缩。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "痿病的常见症状包括胸肌萎缩。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "痿病的常见症状包括肩带肌上肢和。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "痿病的常见症状包括大腿肌肉萎缩。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 15,
+        "type": "SYM"
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "痿病的常见症状包括面肌萎缩。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "痿病的常见症状包括无力。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "痿病的常见症状包括疲劳。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "痿病的常见症状包括手内肌萎缩。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿肥厚型心肌病的常见症状包括心绞痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿肥厚型心肌病的常见症状包括心悸。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿肥厚型心肌病的常见症状包括口唇和甲床略带青紫。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 24,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿肥厚型心肌病的常见症状包括头晕。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿肥厚型心肌病的常见症状包括猝死。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿肥厚型心肌病的常见症状包括乏力。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿肥厚型心肌病的常见症状包括心脏扩大。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿肥厚型心肌病的常见症状包括呼吸困难。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿肥厚型心肌病的常见症状包括心肌肥厚。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿肥厚型心肌病的常见症状包括心脏杂音。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "近视的常见症状包括眼底改变。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "近视的常见症状包括假性近视。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "SYM"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "近视的常见症状包括畏光。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "SYM"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "近视的常见症状包括病理性近视。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "SYM"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "近视的常见症状包括眼前黑影。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "近视的常见症状包括豹纹状眼底。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "type": "SYM"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "近视的常见症状包括铺路石样变性。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "SYM"
+      },
+      {
+        "start": 9,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "近视的常见症状包括视野缩小。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "近视的常见症状包括疲劳。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "近视的常见症状包括眼干。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "驱蛔灵中毒的常见症状包括眩晕。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "驱蛔灵中毒的常见症状包括恶心。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "驱蛔灵中毒的常见症状包括心律失常。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "驱蛔灵中毒的常见症状包括腹痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "驱蛔灵中毒的常见症状包括听力减退。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "驱蛔灵中毒的常见症状包括血尿。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "驱蛔灵中毒的常见症状包括舞蹈病样动作。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "驱蛔灵中毒的常见症状包括共济失调。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "驱蛔灵中毒的常见症状包括昏迷。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿大肠杆菌肠炎的常见症状包括低热。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿大肠杆菌肠炎的常见症状包括粪便脓血。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿大肠杆菌肠炎的常见症状包括腹泻。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿大肠杆菌肠炎的常见症状包括腹泻为水样带黏。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      },
+      {
+        "start": 15,
+        "end": 22,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肺癌骨转移的常见症状包括局部压痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "肺癌骨转移的常见症状包括骨痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "皮下脂膜炎性T细胞淋巴瘤的常见症状包括泛发性红色斑块。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 19,
+        "end": 26,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "皮下脂膜炎性T细胞淋巴瘤的常见症状包括消瘦。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "type": "SYM"
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "皮下脂膜炎性T细胞淋巴瘤的常见症状包括乏力。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "皮下脂膜炎性T细胞淋巴瘤的常见症状包括肌痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "type": "SYM"
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "皮下脂膜炎性T细胞淋巴瘤的常见症状包括结节。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "皮下脂膜炎性T细胞淋巴瘤的常见症状包括脂膜炎。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "皮下脂膜炎性T细胞淋巴瘤的常见症状包括寒战。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "金黄色葡萄球菌性肠炎的常见症状包括深黄色或带绿色。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "type": "DIS"
+      },
+      {
+        "start": 17,
+        "end": 24,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "金黄色葡萄球菌性肠炎的常见症状包括发热伴有腹痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "type": "DIS"
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "type": "DIS"
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "type": "SYM"
+      },
+      {
+        "start": 17,
+        "end": 23,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "慢性附睾炎的常见症状包括阴囊下坠。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "慢性附睾炎的常见症状包括附睾结石。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "SYM"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "慢性附睾炎的常见症状包括结节。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "慢性附睾炎的常见症状包括驻站医。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "慢性附睾炎的常见症状包括阴囊坠胀痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "慢性附睾炎的常见症状包括胀感。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "梗阻性肾病的常见症状包括多尿。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "梗阻性肾病的常见症状包括恶心。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "梗阻性肾病的常见症状包括乏力。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "梗阻性肾病的常见症状包括腹水。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "梗阻性肾病的常见症状包括多饮。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "梗阻性肾病的常见症状包括等渗尿。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "梗阻性肾病的常见症状包括腹部肿块。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "鼻肿瘤的常见症状包括鼻出血。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "type": "SYM"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "鼻肿瘤的常见症状包括鼻塞。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "鼻肿瘤的常见症状包括耳鸣。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "顽痹的常见症状包括膝关节不能完全伸直。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "顽痹的常见症状包括测试。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "主动脉瓣狭窄的常见症状包括端坐呼吸。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "主动脉瓣狭窄的常见症状包括心内膜弹力纤维增生。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 22,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "主动脉瓣狭窄的常见症状包括意识丧失。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "主动脉瓣狭窄的常见症状包括猝死。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "主动脉瓣狭窄的常见症状包括心律失常。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "主动脉瓣狭窄的常见症状包括阵发性夜间呼吸困难。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 22,
+        "type": "SYM"
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "主动脉瓣狭窄的常见症状包括心绞痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "主动脉瓣狭窄的常见症状包括收缩期杂音。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "主动脉瓣狭窄的常见症状包括呼吸困难。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "II型糖尿病的常见症状包括多尿。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "II型糖尿病的常见症状包括乏力。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "II型糖尿病的常见症状包括多饮。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "II型糖尿病的常见症状包括视力障碍。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "II型糖尿病的常见症状包括体重减轻。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "II型糖尿病的常见症状包括糖尿病足部病变。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      },
+      {
+        "start": 13,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "II型糖尿病的常见症状包括血糖值升高。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "II型糖尿病的常见症状包括胃肠道排空表现。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 1,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 13,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "虫咬皮炎的常见症状包括蚊虫刺咬炎症。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "虫咬皮炎的常见症状包括风团。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "虫咬皮炎的常见症状包括丘疹。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "虫咬皮炎的常见症状包括衣玉品。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "胃肠道间质瘤的常见症状包括胃肠道出血。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "胃肠道间质瘤的常见症状包括吞咽困难。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "胃肠道间质瘤的常见症状包括吞咽痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "胃肠道间质瘤的常见症状包括吞咽障碍。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "胃肠道间质瘤的常见症状包括肠穿孔。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "多发性颅内血肿的常见症状包括颅骨连续性中断。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 21,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "多发性颅内血肿的常见症状包括挤压伤。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "多发性颅内血肿的常见症状包括意识障碍。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "多发性颅内血肿的常见症状包括昏迷。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "鼻中隔穿孔的常见症状包括鼻出血。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "type": "SYM"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      },
+      {
+        "start": 0,
+        "end": 5,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "鼻中隔穿孔的常见症状包括鼻塞。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "鼻中隔穿孔的常见症状包括鼻衄。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "鼻中隔穿孔的常见症状包括鼻中隔穿孔。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "瘢痕性脱发的常见症状包括永久性秃发。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "瘢痕性脱发的常见症状包括风盛血燥。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "SYM"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "瘢痕性脱发的常见症状包括脱发。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "瘢痕性脱发的常见症状包括普秃。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "瘢痕性脱发的常见症状包括精血不足。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "瘢痕性脱发的常见症状包括斑秃。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "毒热侵肤的常见症状包括烦躁不安。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "毒热侵肤的常见症状包括便秘。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "毒热侵肤的常见症状包括鳞屑。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "毒热侵肤的常见症状包括瘀斑。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "渗出性多形红斑的常见症状包括衣玉品。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "渗出性多形红斑的常见症状包括结节。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "渗出性多形红斑的常见症状包括食欲不振。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "渗出性多形红斑的常见症状包括气血凝滞。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "渗出性多形红斑的常见症状包括脾虚。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "渗出性多形红斑的常见症状包括丘疹。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "湿痹的常见症状包括湿气重。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "湿痹的常见症状包括骨痹。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "湿痹的常见症状包括脉沉缓或沉细。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "鱼鳞病的常见症状包括肢端角化。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "鱼鳞病的常见症状包括层状鱼鳞癣。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "鱼鳞病的常见症状包括大量皮肤脱屑。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "鱼鳞病的常见症状包括表皮角化。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "环跳疽的常见症状包括脓肿。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "环跳疽的常见症状包括恶寒。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "胆道张力低下综合征的常见症状包括消化不良。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "胆道张力低下综合征的常见症状包括恶心。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "胆道张力低下综合征的常见症状包括胆囊的超敏反应。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "胆道张力低下综合征的常见症状包括胆囊收缩功能不良。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 24,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "胆道张力低下综合征的常见症状包括上腹不适。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "胆道张力低下综合征的常见症状包括胆囊增大。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "DIS"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿颅内肿瘤的常见症状包括反复发作性头痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "type": "DIS"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "type": "SYM"
+      },
+      {
+        "start": 13,
+        "end": 20,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿颅内肿瘤的常见症状包括头晕。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿颅内肿瘤的常见症状包括意识障碍。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿颅内肿瘤的常见症状包括颅压增高。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿颅内肿瘤的常见症状包括表情淡漠。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿颅内肿瘤的常见症状包括嗜睡。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿颅内肿瘤的常见症状包括囟门跳动。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿颅内肿瘤的常见症状包括代超。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "小儿颅内肿瘤的常见症状包括颅缝过早闭合。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "type": "DIS"
+      },
+      {
+        "start": 13,
+        "end": 19,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "复发性溃疡的常见症状包括嗳气。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "复发性溃疡的常见症状包括消化不良。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "复发性溃疡的常见症状包括恶心。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "复发性溃疡的常见症状包括腹痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "复发性溃疡的常见症状包括消化性溃疡。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "复发性溃疡的常见症状包括腹泻。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脂溢性脱发的常见症状包括瘙痒。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脂溢性脱发的常见症状包括鳞屑。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脂溢性脱发的常见症状包括病理性脱发。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "SYM"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "脂溢性脱发的常见症状包括血虚脱发。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "DIS"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "SYM"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "SYM"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "SYM"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "SYM"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "老年人单纯疱疹病毒性脑炎的常见症状包括口唇疱疹。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 19,
+        "end": 23,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "type": "DIS"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "type": "DIS"
+      },
+      {
+        "start": 19,
+        "end": 23,
+        "type": "SYM"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "SYM"
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "老年人单纯疱疹病毒性脑炎的常见症状包括人格改变。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "SYM"
+      },
+      {
+        "start": 19,
+        "end": 23,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "老年人单纯疱疹病毒性脑炎的常见症状包括抽搐。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "type": "SYM"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "老年人单纯疱疹病毒性脑炎的常见症状包括脑膜刺激征。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "SYM"
+      },
+      {
+        "start": 19,
+        "end": 24,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "老年人单纯疱疹病毒性脑炎的常见症状包括昏迷。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "DIS"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "SYM"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "内痔的常见症状包括产后便血。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "内痔的常见症状包括肛门疼痛。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "内痔的常见症状包括肛门坠胀。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "内痔的常见症状包括便血。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "内痔的常见症状包括痔出血。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "SYM"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "内痔的常见症状包括肛门瘙痒。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "SYM"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "内痔的常见症状包括痔核。",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "DIS"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "SYM"
+      }
+    ]
+  },
+  {
+    "text": "香砂六君子汤主要用于治疗阿米巴病。",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "type": "DIS"
+      },
+      {
+        "start": 0,
+        "end": 6,
+        "type": "HERB"
+      }
+    ]
+  }
+]

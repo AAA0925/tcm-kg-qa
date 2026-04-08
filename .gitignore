@@ -129,3 +129,17 @@ backend/check_*.py
 setup_project.py
 setup_data_collection.ps1
 start_neo4j.ps1
+
+# ==================== 模型权重 (保留代码与配置) ====================
+backend/models/*.pth
+backend/models/*.pt
+backend/models/*.bin
+backend/models/*.safetensors
+backend/models/**/*.pth
+backend/models/**/*.pt
+backend/models/**/*.bin
+backend/models/**/*.safetensors
+
+# 可选：忽略训练缓存目录
+backend/models/**/checkpoints/
+backend/models/**/outputs/
